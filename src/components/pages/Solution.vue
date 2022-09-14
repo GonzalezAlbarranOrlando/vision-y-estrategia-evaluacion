@@ -1,13 +1,13 @@
 <template>
-    <div style="background-color: blue;">
-        <h1>Contact</h1>
+    <div style="background-color: yellowgreen;">
+        <h1>Solutions</h1>
         <router-link to="/">Home</router-link>
     </div>
 </template>
 
 <script>
 export default {
-    name: 'ContactPage'
+    name: 'SolutionPage'
 }
 </script>
 
