@@ -1,6 +1,10 @@
 <template>
-    <div>
-        footer
+    <div class="footer-text">
+        <div class="container">
+            <footer>
+                FOOTER
+            </footer>
+        </div>
     </div>
 </template>
 

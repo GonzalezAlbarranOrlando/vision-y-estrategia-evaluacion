@@ -2,8 +2,6 @@ import { createApp } from 'vue'
 import App from './App.vue'
 //vue-router
 import { createRouter, createWebHashHistory } from 'vue-router'
-//Bootstrap css
-import "bootstrap/dist/css/bootstrap.css"
 
 // 1. Define route components.
 import Home from '../src/components/pages/Home.vue'
@@ -33,6 +31,3 @@ const app = createApp(App)
 // whole app router-aware.
 app.use(router)
 app.mount('#app')
-
-//Bootstrap js
-import "bootstrap/dist/js/bootstrap.js"

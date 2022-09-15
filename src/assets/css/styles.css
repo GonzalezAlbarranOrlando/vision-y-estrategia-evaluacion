@@ -1,0 +1,32 @@
+#app {
+    font-family: Georgia, 'Lucida Console';
+    text-align: center;
+}
+
+/*narbar*/
+nav {
+    background-color: #f7f7f7;
+}
+
+li b {
+    color: #61BDD0;
+    font-size: 20px;
+}
+
+li i {
+    margin-left: 50px;
+    margin-right: 5px;
+    font-size: 20px;
+    color: #61BDD0;
+}
+
+/*narbar end*/
+
+/*footer*/
+.footer-text {
+    background-color: #84b6b9;
+    color: white;
+    min-height: 120px;
+}
+
+/*footer end*/
