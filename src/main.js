@@ -8,6 +8,7 @@ import Home from '../src/components/pages/Home.vue'
 import Contact from '../src/components/pages/Contact.vue'
 import Evaluation from '../src/components/pages/Evaluation.vue'
 import Solution from '../src/components/pages/Solution.vue'
+import EnQueConsiste from '@/components/pages/pae/EnQueConsiste.vue'
 
 // 2. Define some routes
 // Each route should map to a component.
@@ -16,6 +17,7 @@ const routes = [
     { path: '/contact', component: Contact },
     { path: '/evaluation', component: Evaluation },
     { path: '/solution', component: Solution },
+    { path: '/en-que-consiste', component: EnQueConsiste },
 ]
 
 // 3. Create the router instance and pass the `routes` option
