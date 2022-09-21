@@ -5,6 +5,10 @@
     <router-link to="/en-que-consiste">En que consiste</router-link>
     <br />
     <router-link to="/preguntas-frecuentes">Preguntas frecuentes</router-link>
+    <br />
+    <router-link to="/consultoria">Consultoria</router-link>
+    <br />
+    <router-link to="/capacitacion">Capacitacion</router-link>
 
     <div
       id="carouselExampleCaptions"
