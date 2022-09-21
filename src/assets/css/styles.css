@@ -7,12 +7,12 @@ nav {
     background-color: #f7f7f7;
 }
 
-li b {
+nav li b {
     color: #61BDD0;
     font-size: 20px;
 }
 
-li i {
+nav li i {
     margin-left: 50px;
     margin-right: 5px;
     font-size: 20px;
