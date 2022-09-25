@@ -31,20 +31,22 @@
       </ul>
     </div>
     <h2 class="my-h2">Con las evaluaciones que realizamos se conoce:</h2>
-    <ul>
-      <li>El eficiente diseño de los programas presupuestarios.</li>
-      <li>
-        Las fortalezas, oportunidades, debilidades y amenazas (FODA), de los
-        programas presupuestarios valorados.
-      </li>
-      <li>La efectividad de los programas presupuestarios.</li>
-      <li>
-        El conocimiento que tienen los funcionarios de los resultados esperados
-        luego de la operación de los programas del año evaluado.
-      </li>
-      <li>Aspectos susceptibles de Mejora.</li>
-      <li>Hallazgos.</li>
-    </ul>
+    <div class="general-text">
+      <ul>
+        <li>El eficiente diseño de los programas presupuestarios.</li>
+        <li>
+          Las fortalezas, oportunidades, debilidades y amenazas (FODA), de los
+          programas presupuestarios valorados.
+        </li>
+        <li>La efectividad de los programas presupuestarios.</li>
+        <li>
+          El conocimiento que tienen los funcionarios de los resultados
+          esperados luego de la operación de los programas del año evaluado.
+        </li>
+        <li>Aspectos susceptibles de Mejora.</li>
+        <li>Hallazgos.</li>
+      </ul>
+    </div>
   </div>
 </template>
 

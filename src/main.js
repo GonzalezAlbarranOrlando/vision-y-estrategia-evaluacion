@@ -6,24 +6,24 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 // 1. Define route components.
 import Home from '../src/components/pages/Home.vue'
 import Contact from '../src/components/pages/Contact.vue'
-import Evaluation from '../src/components/pages/Evaluation.vue'
-import Solution from '../src/components/pages/Solution.vue'
 import EnQueConsiste from '@/components/pages/pae/EnQueConsiste.vue'
 import PreguntasFrecuentes from '@/components/pages/pae/PreguntasFrecuentes.vue'
 import Consultoria from '@/components/pages/pae/Consultoria.vue'
 import Capacitacion from '@/components/pages/pae/Capacitacion.vue'
+import PAEhome from '@/components/pages/pae/PAE-Home.vue'
+import Template from '@/components/pages/Template.vue'
 
 // 2. Define some routes
 // Each route should map to a component.
 const routes = [
     { path: '/', component: Home },
     { path: '/contact', component: Contact },
-    { path: '/evaluation', component: Evaluation },
-    { path: '/solution', component: Solution },
     { path: '/en-que-consiste', component: EnQueConsiste },
     { path: '/preguntas-frecuentes', component: PreguntasFrecuentes },
     { path: '/consultoria', component: Consultoria },
     { path: '/capacitacion', component: Capacitacion },
+    { path: '/pae', component: PAEhome },
+    { path: '/template', component: Template },
 ]
 
 // 3. Create the router instance and pass the `routes` option

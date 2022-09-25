@@ -123,26 +123,4 @@ export default {
 </script>
 
 <style>
-h1.my-h1 {
-  text-align: center;
-  color: black;
-}
-h2.my-h2 {
-  color: black;
-}
-div.general-text {
-  color: gray;
-  text-align: justify;
-  margin-top: 15px;
-  margin-bottom: 25px;
-}
-a.download-text {
-  font-size: 25px;
-  color: rgb(56, 93, 216);
-  text-decoration: none;
-}
-i.download-text {
-  font-size: 25px;
-  color: rgb(56, 93, 216);
-}
 </style>

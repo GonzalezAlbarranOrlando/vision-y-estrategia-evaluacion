@@ -21,6 +21,85 @@ nav li i {
 
 /*narbar end*/
 
+/*headings and texts*/
+h1.my-h1 {
+    text-align: center;
+    color: black;
+}
+
+h2.my-h2 {
+    color: black;
+}
+
+div.general-text {
+    color: gray;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+a.download-text {
+    font-size: 25px;
+    color: rgb(56, 93, 216);
+    text-decoration: none;
+}
+
+i.download-text {
+    font-size: 25px;
+    color: rgb(56, 93, 216);
+}
+
+/*headings and texts end*/
+
+/* Capacitacion tables*/
+div.table-title {
+    background-color: #31586e;
+    color: white;
+    text-align: justify;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.table-white {
+    text-align: justify;
+    background-color: white;
+    border-style: solid none none none;
+    border-width: 1px;
+    border-color: black;
+    padding: 15px;
+}
+
+div.table-gray {
+    text-align: justify;
+    background-color: #a6c4ce;
+    border-style: solid none none none;
+    border-width: 1px;
+    border-color: black;
+    padding: 15px;
+}
+
+ul.ul-clean {
+    list-style-type: none;
+}
+
+/* Capacitacion tables end*/
+
+/* Animations div */
+.animate-div {
+    font-size: 300%;
+    background-color: white;
+    color: #61BDD0;
+    /* center */
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Animations div end*/
+
 /*footer*/
 .footer-text {
     background-color: #84b6b9;

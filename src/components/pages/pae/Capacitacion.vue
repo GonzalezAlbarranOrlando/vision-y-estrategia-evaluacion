@@ -38,11 +38,11 @@
       </div>
       <div class="col-md-7 table-gray">
         <b>Temario:</b>
-        <ul>
+        <ul class="ul-clean">
           <li>1. Marco teórico y conceptual.</li>
           <li>
             2. Consideraciones generales.
-            <ul>
+            <ul class="ul-clean">
               <li>2.1. Objetivo general.</li>
               <li>2.2. Objetivos específicos.</li>
             </ul>
@@ -52,7 +52,7 @@
           <li>5. Monitoreo.</li>
           <li>
             6. Proceso de evaluación.
-            <ul>
+            <ul class="ul-clean">
               <li>6.1. Coordinación.</li>
               <li>6.2. Contratación.</li>
               <li>6.3. Presupuesto.</li>
@@ -62,7 +62,7 @@
           <li>7. Valoración de programas presupuestarios.</li>
           <li>
             8. Uso de información del desempeño.
-            <ul>
+            <ul class="ul-clean">
               <li></li>
               8.1. Información estratégica para la toma de decisiones.
               <li></li>
@@ -193,7 +193,7 @@
           </li>
           <li>Particularidades del apartado de declaraciones del convenio.</li>
           <li>Definición de cláusulas y detallar sus apartados.</li>
-          <ul>
+          <ul class="ul-clean">
             <li>4.1. Objetivo.</li>
             <li>4.2. Compromisos y responsabilidades.</li>
             <li>4.3. Responsables.</li>
@@ -261,11 +261,11 @@
         <ol>
           <li>
             Programa Anual de Evaluación.
-            <ul>
+            <ul class="ul-clean">
               <li>1.1. Marco teórico y conceptual.</li>
               <li>
                 1.2. Consideraciones generales.
-                <ul>
+                <ul class="ul-clean">
                   <li>1.2.1. Objetivo general.</li>
                   <li>1.2.2. Objetivos específicos.</li>
                 </ul>
@@ -276,7 +276,7 @@
               <li>1.5. Monitoreo.</li>
               <li>
                 1.6. Proceso de evaluación.
-                <ul>
+                <ul class="ul-clean">
                   <li>1.6.1. Coordinación.</li>
                   <li>1.6.2. Contratación.</li>
                   <li>1.6.3. Presupuesto.</li>
@@ -287,7 +287,7 @@
               <li>1.7. Valoración de programas presupuestarios.</li>
               <li>
                 1.8. Uso de información del desempeño.
-                <ul>
+                <ul class="ul-clean">
                   <li>
                     1.8.1. Información estratégica para la toma de decisiones.
                   </li>
@@ -304,12 +304,12 @@
 
           <li>
             Términos de Referencia.
-            <ul>
+            <ul class="ul-clean">
               <li>2.1. Justificación.</li>
               <li>2.2. Objetivo general y específicos.</li>
               <li>
                 2.3. Alcances de los servicios.
-                <ul>
+                <ul class="ul-clean">
                   <li>
                     2.3.1. Metodología o forma como se prestará el servicio.
                   </li>
@@ -322,7 +322,7 @@
               <li>2.4. Perfil de la empresa o consultor.</li>
               <li>
                 2.5. Condiciones contractuales.
-                <ul>
+                <ul class="ul-clean">
                   <li>2.5.1. Oferta económica.</li>
                   <li>2.5.2. Forma de pago.</li>
                   <li>2.5.3. Plazo para la entrega del producto.</li>
@@ -334,7 +334,7 @@
 
           <li>
             Características del título del convenio.
-            <ul>
+            <ul class="ul-clean">
               <li>
                 3.1. Elementos para considerar en los antecedentes del convenio
                 de mejora.
@@ -342,7 +342,7 @@
               <li>3.2. del apartado de declaraciones del convenio.</li>
               <li>
                 3.3. Definición de cláusulas y detallar sus apartados.
-                <ul>
+                <ul class="ul-clean">
                   <li>3.3.1. Objetivo.</li>
                   <li>3.3.2. Compromisos y responsabilidades.</li>
                   <li>3.3.3. Responsables.</li>
@@ -414,7 +414,7 @@
         <ol>
           <li>
             Descripción específica del informe de resultados.
-            <ul>
+            <ul class="ul-clean">
               <li>1.1. Características del programa.</li>
               <li>1.2. Diseño.</li>
               <li>1.3. Planeación y orientación a resultados.</li>
@@ -440,43 +440,6 @@
         <b>Fecha de realización: </b>30 y 31 de mayo de 2022.
       </div>
     </div>
-    <br />
-    <br />
-    <div class="row mb-5">
-      <div class="col-12 table-title">titulo</div>
-      <div class="col-12 table-white">
-        <b>Objetivo:</b>
-        <ul>
-          <li>text</li>
-        </ul>
-      </div>
-      <div class="col-12 table-gray">
-        <b>Descripción:</b><br />
-        text
-      </div>
-      <div class="col-md-5 table-white">
-        <b>Características:</b><br />
-        text
-      </div>
-      <div class="col-md-7 table-gray">
-        <b>Temario:</b>
-        <ol type="1">
-          <li>text</li>
-          <ol type="1">
-            <li>opc1</li>
-            <li>opc2</li>
-          </ol>
-        </ol>
-      </div>
-      <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
-      <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
-    </div>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
   </div>
 </template>
 
@@ -487,31 +450,4 @@ export default {
 </script>
 
 <style>
-div.table-title {
-  background-color: #31586e;
-  color: white;
-  text-align: justify;
-  padding: 15px;
-  font-size: 20px;
-  font-weight: bold;
-}
-div.table-white {
-  text-align: justify;
-  background-color: white;
-  border-style: solid none none none;
-  border-width: 1px;
-  border-color: black;
-  padding: 15px;
-}
-div.table-gray {
-  text-align: justify;
-  background-color: #a6c4ce;
-  border-style: solid none none none;
-  border-width: 1px;
-  border-color: black;
-  padding: 15px;
-}
-ul {
-  list-style-type: none;
-}
 </style>
