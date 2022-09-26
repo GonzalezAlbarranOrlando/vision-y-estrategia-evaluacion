@@ -49,7 +49,7 @@
                 </router-link>
               </li>
               <li>
-                <router-link class="dropdown-item" to="/">
+                <router-link class="dropdown-item" to="/agpr">
                   <b>AGpR</b>
                 </router-link>
               </li>
@@ -78,7 +78,7 @@
                 </router-link>
               </li>
               <li>
-                <router-link class="dropdown-item" to="/">
+                <router-link class="dropdown-item" to="/agpr">
                   <b>AGpR</b>
                 </router-link>
               </li>

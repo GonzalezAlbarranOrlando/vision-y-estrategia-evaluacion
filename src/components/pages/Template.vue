@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <!--Animated title-->
-    <div class="animate-div">
+    <div class="animate-div p-3">
       <p class="animate__animated animate__heartBeat">Animated title</p>
     </div>
     <!--Animated title end-->
@@ -44,8 +44,8 @@
     </div>
     <!--download text end-->
     <!--Table -->
-    <div class="container p-4">
-      <div class="row mb-5">
+    <div class="container-fluid">
+      <div class="row mb-5 px-1">
         <div class="col-12 table-title">titulo</div>
         <div class="col-12 table-white">
           <b>Objetivo:</b>

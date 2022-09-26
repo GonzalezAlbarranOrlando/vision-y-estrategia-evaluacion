@@ -10,8 +10,9 @@ import EnQueConsiste from '@/components/pages/pae/EnQueConsiste.vue'
 import PreguntasFrecuentes from '@/components/pages/pae/PreguntasFrecuentes.vue'
 import Consultoria from '@/components/pages/pae/Consultoria.vue'
 import Capacitacion from '@/components/pages/pae/Capacitacion.vue'
-import PAEhome from '@/components/pages/pae/PAE-Home.vue'
 import Template from '@/components/pages/Template.vue'
+import PAEhome from '@/components/pages/pae/PAE-Home.vue'
+import AGPRhome from '@/components/pages/agpr/AGPR-Home.vue'
 
 // 2. Define some routes
 // Each route should map to a component.
@@ -22,8 +23,9 @@ const routes = [
     { path: '/preguntas-frecuentes', component: PreguntasFrecuentes },
     { path: '/consultoria', component: Consultoria },
     { path: '/capacitacion', component: Capacitacion },
-    { path: '/pae', component: PAEhome },
     { path: '/template', component: Template },
+    { path: '/pae', component: PAEhome },
+    { path: '/agpr', component: AGPRhome },
 ]
 
 // 3. Create the router instance and pass the `routes` option

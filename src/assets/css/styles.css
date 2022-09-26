@@ -55,10 +55,11 @@ i.download-text {
 div.table-title {
     background-color: #31586e;
     color: white;
-    text-align: justify;
-    padding: 15px;
+    text-align: center;
+    padding: 7px;
     font-size: 20px;
     font-weight: bold;
+    word-wrap: break-word;
 }
 
 div.table-white {
@@ -67,7 +68,8 @@ div.table-white {
     border-style: solid none none none;
     border-width: 1px;
     border-color: black;
-    padding: 15px;
+    padding: 7px;
+    word-wrap: break-word;
 }
 
 div.table-gray {
@@ -76,7 +78,8 @@ div.table-gray {
     border-style: solid none none none;
     border-width: 1px;
     border-color: black;
-    padding: 15px;
+    padding: 7px;
+    word-wrap: break-word;
 }
 
 ul.ul-clean {
