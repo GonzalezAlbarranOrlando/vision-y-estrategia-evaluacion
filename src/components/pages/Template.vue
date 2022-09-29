@@ -16,6 +16,8 @@
       velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
       est laborum.
+      <br />
+      1234567890
     </div>
     <!--General text end-->
     <!--Heading 2-->
@@ -76,6 +78,38 @@
     <br />
     <br />
     <!--Table end-->
+    <!--Table 2 -->
+    <div class="row table-row">
+      <div class="col-12 table-title">title</div>
+      <div class="col-12 table-white">
+        <b>Objetivo:</b>
+        <ul>
+          <li>text</li>
+        </ul>
+      </div>
+      <div class="col-12 table-gray">
+        <b>Descripción:</b><br />
+        text
+      </div>
+      <div class="col-md-5 table-white">
+        <b>Características:</b>
+        <hr size="2px" color="white" />
+        text
+      </div>
+      <div class="col-md-7 table-gray">
+        <b>Temario:</b>
+        <hr size="2px" color="white" />
+        <b> title </b>
+        <ul class="ul-clean">
+          <li>text</li>
+        </ul>
+      </div>
+      <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
+      <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
+    </div>
+    <br />
+    <br />
+    <!--Table 2 end-->
   </div>
 </template>
 
