@@ -4,16 +4,33 @@
       Programa Anual de Evaluación (PAE)
     </p>
   </div>
-  <div class="my-5">
+  <!--Select option-->
+  <div class="container">
+    <select
+      class="form-select form-select-lg"
+      aria-label=".form-select-lg example"
+      v-model="selected_pae"
+    >
+      <option selected value="EnQueConsiste">En que consiste</option>
+      <option value="PreguntasFrecuentes">Preguntas frecuentes</option>
+      <option value="Consultoria">Consultoria</option>
+      <option value="Capacitacion">Capacitación</option>
+    </select>
+    <!--
+      <span>Selected: {{ selected_pae }}</span>
+    -->
+  </div>
+  <!--Select option end-->
+  <div class="my-5" v-if="selected_pae === 'EnQueConsiste'">
     <EnQueConsiste />
   </div>
-  <div class="my-5">
+  <div class="my-5" v-if="selected_pae === 'PreguntasFrecuentes'">
     <PreguntasFrecuentes />
   </div>
-  <div class="my-5">
+  <div class="my-5" v-if="selected_pae === 'Consultoria'">
     <Consultoria />
   </div>
-  <div class="my-5">
+  <div class="my-5" v-if="selected_pae === 'Capacitacion'">
     <Capacitacion />
   </div>
 </template>
@@ -26,6 +43,11 @@ import Capacitacion from "./Capacitacion.vue";
 export default {
   name: "PAE-Home",
   components: { EnQueConsiste, PreguntasFrecuentes, Consultoria, Capacitacion },
+  data() {
+    return {
+      selected_pae: "EnQueConsiste",
+    };
+  },
 };
 </script>
 
