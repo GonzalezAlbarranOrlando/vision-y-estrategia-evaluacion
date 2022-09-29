@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    <h1 class="my-h1">Capacitaciónn</h1>
-    <div class="row mb-5 px-1">
+    <h1 class="my-h1">Capacitación</h1>
+    <div class="row table-row">
       <div class="col-12 table-title">
         Nombre del curso: Inducción al Programa Anual de Evaluación.
       </div>
@@ -83,8 +83,7 @@
       </div>
     </div>
     <br />
-    <br />
-    <div class="row mb-5 px-1">
+    <div class="row table-row">
       <div class="col-12 table-title">
         Nombre del Taller: Elaboración de Términos de Referencia
       </div>
@@ -140,8 +139,7 @@
       </div>
     </div>
     <br />
-    <br />
-    <div class="row mb-5 px-1">
+    <div class="row table-row">
       <div class="col-12 table-title">
         Nombre del Taller: Diseño de Convenio para la Mejora de Resultados
         Gubernamentales
@@ -216,8 +214,7 @@
       </div>
     </div>
     <br />
-    <br />
-    <div class="row mb-5 px-1">
+    <div class="row table-row">
       <div class="col-12 table-title">
         Nombre del Curso: Desarrollo integral del Programa Anual de Evaluación
       </div>
@@ -371,8 +368,7 @@
       </div>
     </div>
     <br />
-    <br />
-    <div class="row mb-5 px-1">
+    <div class="row table-row">
       <div class="col-12 table-title">
         Nombre del Curso: Elaboración de informes de resultados
       </div>

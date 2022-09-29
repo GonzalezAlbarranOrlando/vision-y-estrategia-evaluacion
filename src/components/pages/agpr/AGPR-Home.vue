@@ -7,13 +7,17 @@
   <div class="my-5">
     <EnQueConsiste />
   </div>
+  <div class="my-5">
+    <InformacionGeneral />
+  </div>
 </template>
 
 <script>
 import EnQueConsiste from "./EnQueConsiste.vue";
+import InformacionGeneral from "./InformacionGeneral.vue";
 export default {
   name: "AGPR-Home",
-  components: { EnQueConsiste },
+  components: { EnQueConsiste, InformacionGeneral },
 };
 </script>
 

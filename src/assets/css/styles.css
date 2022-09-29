@@ -52,6 +52,13 @@ i.download-text {
 /*headings and texts end*/
 
 /* Capacitacion tables*/
+div.table-row {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
 div.table-title {
     background-color: #31586e;
     color: white;
@@ -80,6 +87,12 @@ div.table-gray {
     border-color: black;
     padding: 7px;
     word-wrap: break-word;
+}
+
+div.table-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 ul.ul-clean {

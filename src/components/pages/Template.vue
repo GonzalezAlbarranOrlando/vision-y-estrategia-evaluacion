@@ -44,39 +44,37 @@
     </div>
     <!--download text end-->
     <!--Table -->
-    <div class="container-fluid">
-      <div class="row mb-5 px-1">
-        <div class="col-12 table-title">titulo</div>
-        <div class="col-12 table-white">
-          <b>Objetivo:</b>
-          <ul>
-            <li>text</li>
-          </ul>
-        </div>
-        <div class="col-12 table-gray">
-          <b>Descripción:</b><br />
-          text
-        </div>
-        <div class="col-md-5 table-white">
-          <b>Características:</b><br />
-          text
-        </div>
-        <div class="col-md-7 table-gray">
-          <b>Temario:</b>
-          <ol type="1">
-            <li>text</li>
-            <ul class="ul-clean">
-              <li>opc1</li>
-              <li>opc2</li>
-            </ul>
-          </ol>
-        </div>
-        <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
-        <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
+    <div class="row table-row">
+      <div class="col-12 table-title">titulo</div>
+      <div class="col-12 table-white">
+        <b>Objetivo:</b>
+        <ul>
+          <li>text</li>
+        </ul>
       </div>
-      <br />
-      <br />
+      <div class="col-12 table-gray">
+        <b>Descripción:</b><br />
+        text
+      </div>
+      <div class="col-md-5 table-white">
+        <b>Características:</b><br />
+        text
+      </div>
+      <div class="col-md-7 table-gray">
+        <b>Temario:</b>
+        <ol type="1">
+          <li>text</li>
+          <ul class="ul-clean">
+            <li>opc1</li>
+            <li>opc2</li>
+          </ul>
+        </ol>
+      </div>
+      <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
+      <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
     </div>
+    <br />
+    <br />
     <!--Table end-->
   </div>
 </template>

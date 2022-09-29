@@ -61,35 +61,25 @@
       Perfil del Estándar de Competencia en Administración Gubernamental por
       Resultados (AGpR) ECGAGR01
     </h2>
-    <div class="container-fluid">
-      <div class="row mb-5 px-1">
-        <div class="col-6 table-title">Estándar de Competencia</div>
-        <div class="col-6 table-title">Elemento</div>
-        <div class="w-100"></div>
-        <div class="col-6 table-gray">
-          Administración Gubernamental por Resultados
-        </div>
-        <div class="col-6">
-          <div class="row">
-            <div class="col-12 table-gray">
-              <b>Elemento 1 de 4</b><br />Planear el Sistema de Administración
-              por Resultados
-            </div>
-            <div class="col-12 table-gray">
-              <b>Elemento 2 de 4</b><br />Seguimiento a los Indicadores
-              Estratégicos
-            </div>
-            <div class="col-12 table-gray">
-              <b>Elemento 3 de 4</b><br />Evaluar los Indicadores del Plan de
-              Gobierno
-            </div>
-            <div class="col-12 table-gray">
-              <b>Elemento 4 de 4</b><br />Comunicar los Resultados
-            </div>
-          </div>
-        </div>
+
+    <div class="row table-row">
+      <div class="col-5 table-title">Estándar de Competencia</div>
+      <div class="col-7 table-title">Elemento</div>
+      <div class="w-100"></div>
+      <div class="col-5 table-gray table-center">
+        Administración Gubernamental por Resultados
+      </div>
+      <div class="col-7 table-gray">
+        <b>Elemento 1 de 4</b><br />Planear el Sistema de Administración por
+        Resultados<br /><br />
+        <b>Elemento 2 de 4</b><br />Seguimiento a los Indicadores
+        Estratégicos<br /><br />
+        <b>Elemento 3 de 4</b><br />Evaluar los Indicadores del Plan de
+        Gobierno<br /><br />
+        <b>Elemento 4 de 4</b><br />Comunicar los Resultados
       </div>
     </div>
+
     <!--download text-->
     <div class="mb-3" style="text-align: center">
       <a
