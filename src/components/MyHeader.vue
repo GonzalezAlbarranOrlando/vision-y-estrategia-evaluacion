@@ -35,35 +35,6 @@
               aria-expanded="false"
             >
               <i class="fa fa-bar-chart"></i>
-              <b>Evaluación</b>
-            </a>
-            <ul class="dropdown-menu">
-              <li>
-                <router-link class="dropdown-item" to="/pae">
-                  <b>PAE</b>
-                </router-link>
-              </li>
-              <li>
-                <router-link class="dropdown-item" to="/">
-                  <b>PbR</b>
-                </router-link>
-              </li>
-              <li>
-                <router-link class="dropdown-item" to="/agpr">
-                  <b>AGpR</b>
-                </router-link>
-              </li>
-            </ul>
-          </li>
-          <li class="nav-item dropdown">
-            <a
-              class="nav-link dropdown-toggle"
-              href="#"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              <i class="fa fa-check-circle-o"></i>
               <b>Soluciones</b>
             </a>
             <ul class="dropdown-menu">
