@@ -4,8 +4,9 @@ import App from './App.vue'
 import { createRouter, createWebHashHistory } from 'vue-router'
 
 // 1. Define route components.
-import Home from '../src/components/pages/Home.vue'
-import Contact from '../src/components/pages/Contact.vue'
+import Inicio from './components/pages/Inicio.vue'
+import Contacto from './components/pages/Contacto.vue'
+import Nosotros from './components/pages/Nosotros.vue'
 import EnQueConsiste from '@/components/pages/pae/EnQueConsiste.vue'
 import PreguntasFrecuentes from '@/components/pages/pae/PreguntasFrecuentes.vue'
 import Consultoria from '@/components/pages/pae/Consultoria.vue'
@@ -18,8 +19,9 @@ import PBRhome from '@/components/pages/pbr/PBR-Home.vue'
 // 2. Define some routes
 // Each route should map to a component.
 const routes = [
-    { path: '/', component: Home },
-    { path: '/contact', component: Contact },
+    { path: '/', component: Inicio },
+    { path: '/contacto', component: Contacto },
+    { path: '/nosotros', component: Nosotros },
     { path: '/en-que-consiste', component: EnQueConsiste },
     { path: '/preguntas-frecuentes', component: PreguntasFrecuentes },
     { path: '/consultoria', component: Consultoria },

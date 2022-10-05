@@ -86,7 +86,7 @@
 
 <script>
 export default {
-  name: "HomePage",
+  name: "InicioPage",
 };
 </script>
 

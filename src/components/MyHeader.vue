@@ -26,6 +26,12 @@
               <b>Inicio</b>
             </router-link>
           </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/nosotros">
+              <i class="fa fa-phone"></i>
+              <b>Nosotros</b>
+            </router-link>
+          </li>
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle"
@@ -56,7 +62,7 @@
             </ul>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/contact">
+            <router-link class="nav-link" to="/contacto">
               <i class="fa fa-phone"></i>
               <b>Contacto</b>
             </router-link>
