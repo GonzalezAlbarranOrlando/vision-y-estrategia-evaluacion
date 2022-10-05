@@ -44,7 +44,7 @@
                 </router-link>
               </li>
               <li>
-                <router-link class="dropdown-item" to="/">
+                <router-link class="dropdown-item" to="/pbr">
                   <b>PbR</b>
                 </router-link>
               </li>

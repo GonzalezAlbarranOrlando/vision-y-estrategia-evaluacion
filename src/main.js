@@ -13,6 +13,7 @@ import Capacitacion from '@/components/pages/pae/Capacitacion.vue'
 import Template from '@/components/pages/Template.vue'
 import PAEhome from '@/components/pages/pae/PAE-Home.vue'
 import AGPRhome from '@/components/pages/agpr/AGPR-Home.vue'
+import PBRhome from '@/components/pages/pbr/PBR-Home.vue'
 
 // 2. Define some routes
 // Each route should map to a component.
@@ -26,6 +27,7 @@ const routes = [
     { path: '/template', component: Template },
     { path: '/pae', component: PAEhome },
     { path: '/agpr', component: AGPRhome },
+    { path: '/pbr', component: PBRhome },
 ]
 
 // 3. Create the router instance and pass the `routes` option
