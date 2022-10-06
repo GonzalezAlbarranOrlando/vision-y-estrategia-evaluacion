@@ -4,19 +4,25 @@
 
 /*narbar*/
 nav {
-    background-color: #f7f7f7;
+    /*  f7f7f7 f1f1f1 f4f5f5 c2c6c7 */
+    background-color: #f4f5f5;
 }
 
 nav li b {
-    color: #61BDD0;
-    font-size: 20px;
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    color: #68bccc;
+    font-size: 18px;
 }
 
 nav li i {
-    margin-left: 50px;
-    margin-right: 5px;
-    font-size: 20px;
-    color: #61BDD0;
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    margin-right: 10px;
+    font-size: 18px;
+    color: #68bccc;
+}
+
+a.dropdown-toggle {
+    color: #68bccc;
 }
 
 /*narbar end*/
