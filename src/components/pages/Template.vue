@@ -1,8 +1,10 @@
 <template>
   <div class="container">
     <!--Animated title-->
-    <div class="animate-div p-3">
-      <p class="animate__animated animate__heartBeat">Animated title</p>
+    <div class="animate-div py-3">
+      <p class="animate__animated animate__slideInDown">
+        Animated title Animated title
+      </p>
     </div>
     <!--Animated title end-->
     <!--Heading 1-->

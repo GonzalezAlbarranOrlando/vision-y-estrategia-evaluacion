@@ -28,13 +28,19 @@ a.dropdown-toggle {
 /*narbar end*/
 
 /*headings and texts*/
+.animate-div {
+    font-size: 50px;
+    color: #5f676f;
+    text-align: center;
+}
+
 h1.my-h1 {
     text-align: center;
-    color: black;
+    color: #5f676f;
 }
 
 h2.my-h2 {
-    color: black;
+    color: #5f676f;
 }
 
 div.general-text {
@@ -106,21 +112,6 @@ ul.ul-clean {
 }
 
 /* Capacitacion tables end*/
-
-/* Animations div */
-.animate-div {
-    font-size: 300%;
-    background-color: white;
-    color: #61BDD0;
-    /* center */
-    min-height: 100px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-/* Animations div end*/
 
 /*footer*/
 .footer-text {

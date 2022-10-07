@@ -1,6 +1,6 @@
 <template>
-  <div class="animate-div p-3">
-    <p class="animate__animated animate__heartBeat">
+  <div class="animate-div py-3 container">
+    <p class="animate__animated animate__slideInDown">
       Programa Anual de Evaluación (PAE)
     </p>
   </div>

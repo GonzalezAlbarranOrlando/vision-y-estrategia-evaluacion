@@ -1,7 +1,7 @@
 <template>
-  <div class="animate-div p-3">
-    <p class="animate__animated animate__heartBeat">
-      Estándar de Competencia, AGpR
+  <div class="animate-div py-3 container">
+    <p class="animate__animated animate__slideInDown">
+      Administración Gubernamental por Resultados (AGpR)
     </p>
   </div>
   <!--Select option-->
