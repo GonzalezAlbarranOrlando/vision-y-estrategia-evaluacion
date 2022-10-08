@@ -11,7 +11,7 @@
       aria-label=".form-select-lg example"
       v-model="selected_pbr"
     >
-      <option selected value="EnQueConsiste">En que consistene</option>
+      <option selected value="EnQueConsiste">En que consiste</option>
       <option value="PreguntasFrecuentes">Preguntas Frecuentes</option>
       <option value="Capacitacion">Capacitación</option>
     </select>

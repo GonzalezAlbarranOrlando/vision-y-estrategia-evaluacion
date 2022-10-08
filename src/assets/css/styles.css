@@ -1,5 +1,5 @@
 #app {
-    font-family: Roboto, Georgia, 'Lucida Console';
+    font-family: Roboto;
 }
 
 /*narbar*/
@@ -12,6 +12,12 @@ nav li b {
     /* 61BDD0 60bccf 68bccc 488d9e*/
     color: #68bccc;
     font-size: 18px;
+}
+
+nav li font {
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    color: #68bccc;
+    font-size: 15px;
 }
 
 nav li i {
@@ -37,6 +43,7 @@ a.dropdown-toggle {
 h1.my-h1 {
     text-align: center;
     color: #5f676f;
+    padding-bottom: 50px;
 }
 
 h2.my-h2 {
@@ -52,13 +59,13 @@ div.general-text {
 
 a.download-text {
     font-size: 25px;
-    color: rgb(56, 93, 216);
+    color: #31586e;
     text-decoration: none;
 }
 
 i.download-text {
     font-size: 25px;
-    color: rgb(56, 93, 216);
+    color: #31586e;
 }
 
 /*headings and texts end*/

@@ -25,6 +25,11 @@
         </li>
       </ul>
     </div>
+    <img
+      src="@/assets/img/carrusel-ciclo-presupuestario.jpg"
+      class="d-block w-100"
+      alt="..."
+    />
   </div>
 </template>
 

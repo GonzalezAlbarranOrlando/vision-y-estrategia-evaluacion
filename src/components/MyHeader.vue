@@ -23,10 +23,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <!--Navbar-->
-      <div
-        class="collapse navbar-collapse justify-content-center"
-        id="navbarNav"
-      >
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item px-3">
             <router-link class="nav-link active" aria-current="page" to="/">
@@ -54,17 +51,17 @@
             <ul class="dropdown-menu">
               <li>
                 <router-link class="dropdown-item" to="/pae">
-                  <b>PAE</b>
+                  <font>Programa Anual de Evaluación (PAE)</font>
                 </router-link>
               </li>
               <li>
                 <router-link class="dropdown-item" to="/pbr">
-                  <b>PbR</b>
+                  <font>Presupuesto basado en Resultados (PbR)</font>
                 </router-link>
               </li>
               <li>
                 <router-link class="dropdown-item" to="/agpr">
-                  <b>AGpR</b>
+                  <font>Estándar de Competencia</font>
                 </router-link>
               </li>
             </ul>

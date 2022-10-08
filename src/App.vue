@@ -31,4 +31,5 @@ export default {
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
 /*Animate style*/
 @import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
+@import "../node_modules/typeface-roboto/index.css";
 </style>
