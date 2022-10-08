@@ -7,11 +7,8 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Inicio from './components/pages/Inicio.vue'
 import Contacto from './components/pages/Contacto.vue'
 import Nosotros from './components/pages/Nosotros.vue'
-import EnQueConsiste from '@/components/pages/pae/EnQueConsiste.vue'
-import PreguntasFrecuentes from '@/components/pages/pae/PreguntasFrecuentes.vue'
-import Consultoria from '@/components/pages/pae/Consultoria.vue'
-import Capacitacion from '@/components/pages/pae/Capacitacion.vue'
 import Template from '@/components/pages/Template.vue'
+import PAEcalendario from '@/components/pages/pae/Calendario.vue'
 import PAEhome from '@/components/pages/pae/PAE-Home.vue'
 import AGPRhome from '@/components/pages/agpr/AGPR-Home.vue'
 import PBRhome from '@/components/pages/pbr/PBR-Home.vue'
@@ -22,11 +19,8 @@ const routes = [
     { path: '/', component: Inicio },
     { path: '/contacto', component: Contacto },
     { path: '/nosotros', component: Nosotros },
-    { path: '/en-que-consiste', component: EnQueConsiste },
-    { path: '/preguntas-frecuentes', component: PreguntasFrecuentes },
-    { path: '/consultoria', component: Consultoria },
-    { path: '/capacitacion', component: Capacitacion },
     { path: '/template', component: Template },
+    { path: '/pae-calendario', component: PAEcalendario },
     { path: '/pae', component: PAEhome },
     { path: '/agpr', component: AGPRhome },
     { path: '/pbr', component: PBRhome },

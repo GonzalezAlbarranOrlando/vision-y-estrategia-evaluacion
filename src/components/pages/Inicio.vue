@@ -28,28 +28,28 @@
         ></button>
       </div>
       <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="5000">
-          <router-link to="/contacto">
+        <div class="carousel-item active" data-bs-interval="3000">
+          <router-link to="/pae-calendario">
             <img
-              src="@/assets/img/calendario.jpeg"
+              src="@/assets/img/carrusel-calendario-pae.jpeg"
               class="d-block w-100"
               alt="..."
             />
           </router-link>
         </div>
-        <div class="carousel-item" data-bs-interval="5000">
-          <router-link to="/contacto">
+        <div class="carousel-item" data-bs-interval="3000">
+          <router-link to="/pbr">
             <img
-              src="https://picsum.photos/id/213/600/200"
+              src="@/assets/img/carrusel-PbR.jpeg"
               class="d-block w-100"
               alt="..."
             />
           </router-link>
         </div>
-        <div class="carousel-item" data-bs-interval="5000">
+        <div class="carousel-item" data-bs-interval="3000">
           <router-link to="/contacto">
             <img
-              src="https://picsum.photos/id/302/600/200"
+              src="@/assets/img/carrusel-ciclo-presupuestario.jpg"
               class="d-block w-100"
               alt="..."
             />

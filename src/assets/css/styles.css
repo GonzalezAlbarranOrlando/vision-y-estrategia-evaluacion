@@ -1,5 +1,5 @@
 #app {
-    font-family: Georgia, 'Lucida Console';
+    font-family: Roboto, Georgia, 'Lucida Console';
 }
 
 /*narbar*/
@@ -40,7 +40,7 @@ h1.my-h1 {
 }
 
 h2.my-h2 {
-    color: #5f676f;
+    color: #68bccc;
 }
 
 div.general-text {
