@@ -16,13 +16,13 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         El curso permitirá a los participantes contar con las herramientas
         necesarias para estar en condiciones de elaborar un programa anual de
         evaluación independiente del ámbito de gobierno para el que se requiera.
       </div>
-      <div class="col-md-5 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas, independientes, consultores, académicos,
         estudiantes, titulares de las Unidades de Información, Planeación,
@@ -36,7 +36,7 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-7 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ul class="ul-clean">
           <li>1. Marco teórico y conceptual.</li>
@@ -78,7 +78,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b>7 días (14 horas).
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>Del 4 al 8, 11 y 12 de abril de 2022.
       </div>
     </div>
@@ -98,14 +98,14 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         Con el taller los asistentes aprenderán a elaborar la herramienta
         necesaria para establecer el proceso mediante el cual se establecen las
         directrices que se deben realizar al elaborar las evaluaciones
         establecidas en el programa (s) anual (es) de Evaluación (es).
       </div>
-      <div class="col-md-9 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas, independientes, consultores, académicos,
         estudiantes, titulares de las Unidades de Información, Planeación,
@@ -120,7 +120,7 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-3 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ol>
           <li>Contenido de los términos de referencia.</li>
@@ -134,7 +134,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b>4 días (12 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>Del 19 al 22 de abril de 2022.
       </div>
     </div>
@@ -155,7 +155,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         El taller promoverá en los participantes el fortalecimiento de las
         capacidades en vistas a mejorar la gestión y participación de los
@@ -165,7 +165,7 @@
         responsabilidad las tareas encomendadas en los diferentes ámbitos en el
         que se desarrollará profesionalmente.
       </div>
-      <div class="col-sm-5 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas, independientes, consultores, académicos,
         estudiantes, titulares de las Unidades de Información, Planeación,
@@ -181,7 +181,7 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-sm-7 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ol type="1">
           <li>Características del título del convenio.</li>
@@ -209,7 +209,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b>1 día (5 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>27 de mayo de 2022.
       </div>
     </div>
@@ -228,7 +228,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         Al finalizar el curso los participantes desarrollarán habilidades para
         diseñar un programa anual de evaluación, y todas las herramientas que se
@@ -236,7 +236,7 @@
         términos de referencia, como elaborar y obtener un informe de
         resultados, y convenio de mejora.
       </div>
-      <div class="col-md-4 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas, independientes, consultores, académicos,
         estudiantes, titulares de las Unidades de Información, Planeación,
@@ -253,7 +253,7 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-8 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ol>
           <li>
@@ -267,7 +267,6 @@
                   <li>1.2.2. Objetivos específicos.</li>
                 </ul>
               </li>
-
               <li>1.3. Glosario.</li>
               <li>1.4. Diagnóstico de programas.</li>
               <li>1.5. Monitoreo.</li>
@@ -280,7 +279,6 @@
                   <li>1.6.4. Difusión.</li>
                 </ul>
               </li>
-
               <li>1.7. Valoración de programas presupuestarios.</li>
               <li>
                 1.8. Uso de información del desempeño.
@@ -291,14 +289,12 @@
                   <li>1.8.2. Aspectos Susceptibles de Mejora.</li>
                 </ul>
               </li>
-
               <li>1.9. Consideraciones finales.</li>
               <li>1.10. Cronograma de ejecución.</li>
               <li>1.11. Transitorios.</li>
               <li>1.12. Anexos.</li>
             </ul>
           </li>
-
           <li>
             Términos de Referencia.
             <ul class="ul-clean">
@@ -315,7 +311,6 @@
                   <li>2.3.4. Informes para entregar.</li>
                 </ul>
               </li>
-
               <li>2.4. Perfil de la empresa o consultor.</li>
               <li>
                 2.5. Condiciones contractuales.
@@ -328,7 +323,6 @@
               </li>
             </ul>
           </li>
-
           <li>
             Características del título del convenio.
             <ul class="ul-clean">
@@ -354,7 +348,6 @@
                   <li>3.3.10. Interpretación.</li>
                 </ul>
               </li>
-
               <li>3.4. Peculiaridades del apartado de firmas.</li>
             </ul>
           </li>
@@ -363,7 +356,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración: </b>4 días 16 horas (4 horas por día)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>Del 23 al 26 de mayo de 2022.
       </div>
     </div>
@@ -384,14 +377,14 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         Los asistentes conocerán en profundidad los distintos tipos de informes
         y su estructura; los recursos y técnicas más usuales para su
         elaboración; y las claves para identificar y corregir errores, derivadas
         de la metodología elaborada en los términos de referencias para ello.
       </div>
-      <div class="col-md-6 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas, independientes, consultores, académicos,
         estudiantes, titulares de las Unidades de Información, Planeación,
@@ -405,7 +398,7 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-6 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ol>
           <li>
@@ -432,7 +425,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración: </b>2 días 8 horas (4 horas por día)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>30 y 31 de mayo de 2022.
       </div>
     </div>

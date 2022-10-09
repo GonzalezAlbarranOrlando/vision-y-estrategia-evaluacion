@@ -19,7 +19,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -38,9 +38,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-4 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público.<br /><br />
@@ -50,9 +50,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-8 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b>Herramienta de partida:</b> Comprensión de un Sistema de Gestión para
         Resultados.
         <ul class="ul-clean">
@@ -123,7 +123,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b>8 días (24 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>Del 11 al 13 y del 16 al 20 de mayo de 2022
       </div>
     </div>
@@ -148,7 +148,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -167,9 +167,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-5 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público.<br /><br />
@@ -179,9 +179,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-7 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b>Herramienta de partida:</b> Comprensión de un Sistema de Gestión para
         Resultados.
         <ul class="ul-clean">
@@ -206,7 +206,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b>3 días 9 horas (3 horas por día)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b>Del 4 al 6 de abril de 2022.
       </div>
     </div>
@@ -230,7 +230,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -249,9 +249,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-7 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público.<br /><br />
@@ -261,9 +261,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-5 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b>Módulo 2: Programación en la gestión de proyectos</b>
         <ul class="ul-clean">
           <li>2.1 Formas de programación</li>
@@ -275,7 +275,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 1 día (3 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 7 de abril de 2022.
       </div>
     </div>
@@ -299,7 +299,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -318,9 +318,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-7 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público.<br /><br />
@@ -330,9 +330,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-5 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b> Módulo 3: Presupuesto basado en Resultados (PbR) </b>
         <ul class="ul-clean">
           <li>3.1. Recursos para la planeación estratégica.</li>
@@ -345,7 +345,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 1 día (4 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 8 de abril de 2022.
       </div>
     </div>
@@ -370,7 +370,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -389,9 +389,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-7 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público. <br /><br />
@@ -401,9 +401,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-5 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b> Módulo 4: Diseño de indicadores estratégicos y de gestión </b>
         <ul class="ul-clean">
           <li>4.1. Conceptualización y diseño de indicadores.</li>
@@ -421,7 +421,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 1 día (3 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 11 de abril de 2022.
       </div>
     </div>
@@ -445,7 +445,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b>
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -464,9 +464,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-7 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público. <br />
@@ -478,9 +478,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-5 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b> Módulo 5: Monitoreo y control </b>
         <ul class="ul-clean">
           <li>1.1. Consideraciones iniciales del control.</li>
@@ -492,7 +492,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 1 días (3 horas)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 12 de abril de 2022
       </div>
     </div>
@@ -516,7 +516,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b>
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -535,9 +535,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-6 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público. <br /><br />
@@ -547,9 +547,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-6 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b> Módulo 6: Gestión de la evidencia </b>
         <ul class="ul-clean">
           <li>6.1. Conceptualización de evaluación.</li>
@@ -564,7 +564,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 2 días 8 horas (4 por día)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 18 y 19 de abril de 2022.
       </div>
     </div>
@@ -588,7 +588,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b>
         <ul>
           <li>Reconocer las características de los gobiernos.</li>
@@ -607,9 +607,9 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-6 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
-        <hr size="2px" color="white" />
+        <br />
         Dirigido a: Alta autoridad, funcionarios/as y personas designado para la
         implantación del Sistema de Gestión para Resultados en el Sector
         Público. <br /><br />
@@ -619,9 +619,9 @@
         Constancia: Al término del curso se otorgará una constancia de
         participación con valor curricular, con la insignia de Gobernova.
       </div>
-      <div class="col-md-6 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
-        <hr size="2px" color="white" />
+        <br />
         <b> Módulo 7. Comunicación de resultados </b>
         <ul class="ul-clean">
           <li>7.1. Estrategias de comunicación.</li>
@@ -634,7 +634,7 @@
       <div class="col-12 table-white">
         <b>Horas de duración:</b> 2 días 6 horas (3 por día)
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 20 y 21 de abril de 2022.
       </div>
     </div>

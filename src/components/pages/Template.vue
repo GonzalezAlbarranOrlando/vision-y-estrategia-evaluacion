@@ -56,15 +56,15 @@
           <li>text</li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         text
       </div>
-      <div class="col-md-5 table-white">
+      <div class="col-md-12 table-white">
         <b>Características:</b><br />
         text
       </div>
-      <div class="col-md-7 table-gray">
+      <div class="col-md-12 table-blue">
         <b>Temario:</b>
         <ol type="1">
           <li>text</li>
@@ -75,7 +75,7 @@
         </ol>
       </div>
       <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
-      <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
+      <div class="col-12 table-blue"><b>Fecha de realización: </b>text</div>
     </div>
     <br />
     <br />
@@ -89,16 +89,16 @@
           <li>text</li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         text
       </div>
-      <div class="col-md-5 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b>
         <hr size="2px" color="white" />
         text
       </div>
-      <div class="col-md-7 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <hr size="2px" color="white" />
         <b> title </b>
@@ -107,7 +107,7 @@
         </ul>
       </div>
       <div class="col-12 table-white"><b>Horas de duración:</b>text</div>
-      <div class="col-12 table-gray"><b>Fecha de realización: </b>text</div>
+      <div class="col-12 table-blue"><b>Fecha de realización: </b>text</div>
     </div>
     <br />
     <br />

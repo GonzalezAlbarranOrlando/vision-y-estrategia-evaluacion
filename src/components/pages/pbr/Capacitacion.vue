@@ -23,7 +23,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Descripción:</b><br />
         Este taller es conveniente para las personas que desean: <br />
         <ul>
@@ -52,7 +52,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-4 table-white">
+      <div class="col-12 table-white">
         <b>Características:</b><br />
         Dirigido a: Profesionistas independientes, consultores(as),
         académicos(as), estudiantes y personal de los centros de trabajo
@@ -69,7 +69,7 @@
         Previsión Social.<br />
         Agente Capacitador Externo Número: DDC120622736-0013 DC-3 STPS.
       </div>
-      <div class="col-md-8 table-gray">
+      <div class="col-12 table-blue">
         <b>Temario:</b>
         <ol type="1">
           <li>
@@ -186,7 +186,7 @@
         </ol>
       </div>
       <div class="col-12 table-white"><b>Horas de duración:</b> 20 horas.</div>
-      <div class="col-12 table-gray">
+      <div class="col-12 table-blue">
         <b>Fecha de realización: </b> 22, 23, 24 y 25 de noviembre de 2022
       </div>
     </div>
