@@ -1,5 +1,5 @@
 <template>
-  <div class="container p-2">
+  <div class="container py-3">
     <img
       src="@/assets/img/calendario-pae.jpg"
       class="d-block w-100"
