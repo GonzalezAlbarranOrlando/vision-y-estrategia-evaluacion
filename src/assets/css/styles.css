@@ -159,3 +159,23 @@ div.my-shadow {
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
 }
+
+/*my shadow end*/
+
+/*card*/
+div.card-header {
+    text-align: center;
+    background-color: #a6c4ce;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+div.card-body {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 140px;
+    display: flex;
+    align-items: center;
+}
+
+/*card end*/

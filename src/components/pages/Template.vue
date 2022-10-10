@@ -7,6 +7,22 @@
       </p>
     </div>
     <!--Animated title end-->
+    <!--Select option-->
+    <select
+      class="form-select form-select-lg"
+      aria-label=".form-select-lg example"
+      v-model="selected_opt"
+    >
+      <option selected value="opt1">opt1</option>
+      <option value="opt2">opt2</option>
+      <option value="opt3">opt3</option>
+      <option value="opt4">opt4</option>
+    </select>
+    <!--
+      <span>Selected: {{ selected_pae }}</span>
+    -->
+    <!--Select option end-->
+    <br />
     <!--Heading 1-->
     <h1 class="my-h1">Heading 1</h1>
     <!--General text-->
@@ -112,12 +128,38 @@
     <br />
     <br />
     <!--Table 2 end-->
+    <br />
+    <!--card-->
+    <div class="card">
+      <div class="card-header">
+        <h5 class="card-title">TITLE</h5>
+      </div>
+      <div class="card-body">
+        <p class="card-text">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+    </div>
+    <!--card end-->
+    <br />
+    <br />
   </div>
 </template>
 
 <script>
 export default {
   name: "TemplateView",
+  data() {
+    return {
+      selected_opt: "opt1",
+    };
+  },
 };
 </script>
 
