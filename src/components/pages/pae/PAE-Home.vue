@@ -1,11 +1,12 @@
 <template>
-  <div class="animate-div py-3 container">
-    <p class="animate__animated animate__slideInDown">
-      Programa Anual de Evaluación (PAE)
-    </p>
-  </div>
-  <!--Select option-->
   <div class="container">
+    <!--Animated title-->
+    <div class="animate-div">
+      <p class="animate__animated animate__slideInDown">
+        Programa Anual de Evaluación (PAE)
+      </p>
+    </div>
+    <!--Select option-->
     <select
       class="form-select form-select-lg"
       aria-label=".form-select-lg example"
@@ -19,8 +20,8 @@
     <!--
       <span>Selected: {{ selected_pae }}</span>
     -->
+    <!--Select option end-->
   </div>
-  <!--Select option end-->
   <div class="my-5" v-if="selected_pae === 'EnQueConsiste'">
     <EnQueConsiste />
   </div>

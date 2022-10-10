@@ -38,12 +38,15 @@ a.dropdown-toggle {
     font-size: 50px;
     color: #5f676f;
     text-align: center;
+    word-wrap: break-word;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 h1.my-h1 {
     text-align: center;
     color: #5f676f;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 h2.my-h2 {

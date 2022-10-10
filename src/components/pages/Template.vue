@@ -1,9 +1,9 @@
 <template>
   <div class="container">
     <!--Animated title-->
-    <div class="animate-div py-3">
+    <div class="animate-div">
       <p class="animate__animated animate__slideInDown">
-        Animated title Animated title
+        Animated title animatedTitle
       </p>
     </div>
     <!--Animated title end-->
