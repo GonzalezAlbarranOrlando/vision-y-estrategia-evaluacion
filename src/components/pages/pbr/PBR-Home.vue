@@ -15,6 +15,7 @@
       <option selected value="EnQueConsiste">En que consiste</option>
       <option value="PreguntasFrecuentes">Preguntas Frecuentes</option>
       <option value="Capacitacion">Capacitación</option>
+      <option value="Transparencia">Transparencia</option>
     </select>
     <!--
         <span>Selected: {{ selected_pbr }}</span>
@@ -30,18 +31,23 @@
   <div class="my-5" v-if="selected_pbr === 'Capacitacion'">
     <Capacitacion />
   </div>
+  <div class="my-5" v-if="selected_pbr === 'Transparencia'">
+    <Transparencia />
+  </div>
 </template>
   
 <script>
 import EnQueConsiste from "./EnQueConsiste.vue";
 import PreguntasFrecuentes from "./PreguntasFrecuentes.vue";
 import Capacitacion from "./Capacitacion.vue";
+import Transparencia from "./Transparencia.vue";
 export default {
   name: "PBR-Home",
   components: {
     EnQueConsiste,
     PreguntasFrecuentes,
     Capacitacion,
+    Transparencia,
   },
   data() {
     return {

@@ -8,10 +8,10 @@
       <div class="col-lg-6 py-2">
         <!--card MISIÓN-->
         <div class="card">
-          <div class="card-header">
+          <div class="card-header card-header-nosotros">
             <h5 class="card-title">MISIÓN</h5>
           </div>
-          <div class="card-body">
+          <div class="card-body card-body-nosotros">
             <p class="card-text">
               Ofrecer a organizaciones públicas, privadas o sociales soluciones
               para optimizar, estandarizar, capacitar y dar mantenimiento a sus
@@ -25,10 +25,10 @@
       <div class="col-lg-6 py-2">
         <!--card VISIÓN-->
         <div class="card">
-          <div class="card-header">
+          <div class="card-header card-header-nosotros">
             <h5 class="card-title">VISIÓN</h5>
           </div>
-          <div class="card-body">
+          <div class="card-body card-body-nosotros">
             <p class="card-text">
               Consolidarnos como una empresa líder en México, con los más altos
               estándares de calidad en la implantación de sistemas de gestión.

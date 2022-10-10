@@ -60,6 +60,12 @@ div.general-text {
     margin-bottom: 25px;
 }
 
+a.download-here {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 a.download-text {
     font-size: 25px;
     color: #31586e;
@@ -162,15 +168,15 @@ div.my-shadow {
 
 /*my shadow end*/
 
-/*card*/
-div.card-header {
+/*cards*/
+div.card-header-nosotros {
     text-align: center;
     background-color: #a6c4ce;
     padding: 20px;
     word-wrap: break-word;
 }
 
-div.card-body {
+div.card-body-nosotros {
     word-wrap: break-word;
     text-align: justify;
     min-height: 140px;
@@ -178,7 +184,19 @@ div.card-body {
     align-items: center;
 }
 
-/*card end*/
+div.card-body-transparencia {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 240px;
+}
+
+div.card-body-transparencia-descarga {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 140px;
+}
+
+/*cards end*/
 
 /*form*/
 .error {
@@ -192,7 +210,7 @@ div.card-body {
 button.btn {
     display: inline-block;
     padding: 15px 25px;
-    font-size: 24px;
+    font-size: 15px;
     cursor: pointer;
     text-align: center;
     text-decoration: none;

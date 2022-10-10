@@ -58,7 +58,7 @@
         ></textarea>
       </div>
       <div style="text-align: center">
-        <button class="btn btn-secondary btn-lg" type="submit">Enviar</button>
+        <button class="btn btn-secondary" type="submit">Enviar</button>
       </div>
     </form>
     <!-- End Form Code -->

@@ -50,6 +50,17 @@
       </ul>
     </div>
     <!--General text end-->
+    <br />
+    <!--download here-->
+    <a
+      class="download-here"
+      href="https://drive.google.com/uc?export=download&id=1t01rxFweZz8nVEGPO0IcwYg5kQjvdQDR"
+      target="_blank"
+    >
+      aquí
+    </a>
+    <!--download here end-->
+    <br />
 
     <!--download text-->
     <div class="mb-3" style="text-align: center">
@@ -129,12 +140,12 @@
     <br />
     <!--Table 2 end-->
     <br />
-    <!--card-->
+    <!--card nosotros-->
     <div class="card">
-      <div class="card-header">
+      <div class="card-header card-header-nosotros">
         <h5 class="card-title">TITLE</h5>
       </div>
-      <div class="card-body">
+      <div class="card-body card-body-nosotros">
         <p class="card-text">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -146,7 +157,53 @@
         </p>
       </div>
     </div>
-    <!--card end-->
+    <!--card nosotros end-->
+    <br />
+    <br />
+    <div class="row">
+      <div class="col-sm-6 py-2">
+        <!--card transparencia-->
+        <div class="card">
+          <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+          <div
+            class="
+              card-body card-body-transparencia
+              d-flex
+              flex-column
+              justify-content-center
+            "
+          >
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card transparencia end-->
+      </div>
+      <div class="col-sm-6 py-2">
+        <!--card transparencia-->
+        <div class="card">
+          <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+          <div
+            class="
+              card-body card-body-transparencia
+              d-flex
+              flex-column
+              justify-content-center
+            "
+          >
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card transparencia end-->
+      </div>
+    </div>
     <br />
     <br />
   </div>
