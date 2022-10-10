@@ -147,3 +147,11 @@ div.derechos-reservados {
 }
 
 /*footer end*/
+
+/*my shadow*/
+div.my-shadow {
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}

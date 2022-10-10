@@ -2,7 +2,7 @@
   <div class="container p-2">
     <div
       id="carouselExampleIndicators"
-      class="carousel slide carousel-dark"
+      class="carousel slide carousel-dark my-shadow"
       data-bs-ride="true"
     >
       <div class="carousel-indicators">
