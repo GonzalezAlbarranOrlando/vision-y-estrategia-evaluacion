@@ -124,6 +124,7 @@ ul.ul-clean {
 .footer-text {
     background-color: #84b6b9;
     color: white;
+    word-wrap: break-word;
 }
 
 .center {

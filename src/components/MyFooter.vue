@@ -3,14 +3,14 @@
     <div class="container py-3">
       <footer>
         <div class="row">
-          <div class="col-md-3 center" style="text-align: center">
+          <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-envelope-o"></i>
             <br />
             <a href="mailto: name@example.com" class="anchor-footer-text"
               >name@example.com</a
             >
           </div>
-          <div class="col-md-3 center" style="text-align: center">
+          <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-phone"></i>
             <br />
             <i class="fa fa-building-o"></i>
@@ -34,7 +34,7 @@
               >123-456-7890</a
             >
           </div>
-          <div class="col-md-3 center" style="text-align: center">
+          <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-map-marker"></i>
             <br />
             <a
@@ -45,7 +45,7 @@
               51350</a
             >
           </div>
-          <div class="col-md-3 center" style="text-align: center">
+          <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-clock-o"></i>
             <br />
             9:00 a.m. - 6:00 p.m.
