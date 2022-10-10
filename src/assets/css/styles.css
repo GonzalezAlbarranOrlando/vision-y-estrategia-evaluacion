@@ -179,3 +179,30 @@ div.card-body {
 }
 
 /*card end*/
+
+/*form*/
+.error {
+    color: red;
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+
+button.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #31586e;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+}
+
+
+/*form end*/

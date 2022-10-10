@@ -2,7 +2,7 @@
   <div class="container">
     <!--Animated title-->
     <div class="animate-div">
-      <p class="animate__animated animate__heartBeat">Nosotros</p>
+      <p class="animate__animated animate__slideInDown">Nosotros</p>
     </div>
     <div class="row">
       <div class="col-lg-6 py-2">
