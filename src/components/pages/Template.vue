@@ -165,14 +165,7 @@
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
-          <div
-            class="
-              card-body card-body-transparencia
-              d-flex
-              flex-column
-              justify-content-center
-            "
-          >
+          <div class="card-body card-body-transparencia">
             <h2 class="my-h2">Title</h2>
             <div class="general-text">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -186,14 +179,7 @@
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
-          <div
-            class="
-              card-body card-body-transparencia
-              d-flex
-              flex-column
-              justify-content-center
-            "
-          >
+          <div class="card-body card-body-transparencia">
             <h2 class="my-h2">Title</h2>
             <div class="general-text">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do

@@ -37,6 +37,18 @@
         </div>
         <!--card VISIÓN end-->
       </div>
+      <div class="col-12 py-2">
+        <!--card EQUIPO EVALUADOR-->
+        <div class="card">
+          <div class="card-header card-header-nosotros">
+            <h5 class="card-title">EQUIPO EVALUADOR</h5>
+          </div>
+          <div class="card-body card-body-nosotros">
+            <p class="card-text">text</p>
+          </div>
+        </div>
+        <!--card EQUIPO EVALUADOR end-->
+      </div>
     </div>
   </div>
 </template>

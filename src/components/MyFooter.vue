@@ -6,32 +6,43 @@
           <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-envelope-o"></i>
             <br />
-            <a href="mailto: name@example.com" class="anchor-footer-text"
-              >name@example.com</a
+            <a
+              href="mailto: informes@visionyestrategia.com.mx"
+              class="anchor-footer-text"
+              >informes@visionyestrategia.com.mx</a
             >
           </div>
           <div class="col-6 col-lg-3 center" style="text-align: center">
-            <i class="fa fa-phone"></i>
-            <br />
             <i class="fa fa-building-o"></i>
 
-            <a href="tel:123-456-7890" class="anchor-footer-text"
-              >123-456-7890</a
+            <a href="tel:722-544-7945" class="anchor-footer-text"
+              >722-544-7945</a
             >
             <br />
             <i class="fa fa-volume-control-phone"></i>
-
-            <a href="tel:123-456-7890" class="anchor-footer-text"
-              >123-456-7890</a
+            <a href="tel:722-267-6413" class="anchor-footer-text"
+              >722-267-6413</a
+            >
+            <br />
+            <i class="fa fa-volume-control-phone"></i>
+            <a href="tel:722-387-5761" class="anchor-footer-text"
+              >722-387-5761</a
             >
             <br />
             <i class="fa fa-whatsapp"></i>
-
             <a
-              href="https://api.whatsapp.com/send?phone=1234567890"
+              href="https://api.whatsapp.com/send?phone=7222676413"
               class="anchor-footer-text"
               target="_blank"
-              >123-456-7890</a
+              >722-267-6413</a
+            >
+            <br />
+            <i class="fa fa-whatsapp"></i>
+            <a
+              href="https://api.whatsapp.com/send?phone=7223875761"
+              class="anchor-footer-text"
+              target="_blank"
+              >722-387-5761</a
             >
           </div>
           <div class="col-6 col-lg-3 center" style="text-align: center">
@@ -60,7 +71,6 @@
             >
               <i class="fa fa-linkedin-square"></i>
             </a>
-
             <a
               href="https://www.facebook.com/VyEstrategia"
               class="anchor-footer-text"
@@ -68,7 +78,6 @@
             >
               <i class="fa fa-facebook-square"></i>
             </a>
-
             <a
               href="https://twitter.com/VyEstrategia?t=jgLuZ512xe8xGQBCG8Y6PQ&s=09"
               class="anchor-footer-text"

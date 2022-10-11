@@ -4,13 +4,6 @@
     <div class="animate-div">
       <p class="animate__animated animate__slideInDown">Contáctanos</p>
     </div>
-    <div class="general-text" style="text-align: center">
-      ¿Necesitas más información?<br />
-      ¿Solicitar un presupuesto o conocer más sobre nuestros servicios? <br />
-      Por favor, déjanos tu mensaje y datos de contacto, nos comunicaremos
-      contigo en la brevedad. <br />
-      ¡Muchas gracias!
-    </div>
     <!-- Form Code -->
     <form @submit.prevent="myValidation" class="my-5">
       <div class="row">
