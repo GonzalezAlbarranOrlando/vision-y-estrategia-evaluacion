@@ -52,7 +52,7 @@
               href="https://goo.gl/maps/MWneWd57QfmDY1tY7"
               class="anchor-footer-text"
               target="_blank"
-              >Ex Hacienda Barbabosa 100-A Col. San Miguel Zinacantepec C.P.
+              >Ex Hacienda Barbabosa 100-A Col. Barbabosa, Zinacantepec C.P.
               51350</a
             >
           </div>

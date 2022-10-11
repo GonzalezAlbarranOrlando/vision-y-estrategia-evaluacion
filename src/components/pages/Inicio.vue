@@ -1,5 +1,5 @@
 <template>
-  <div class="container p-2">
+  <div class="container py-5">
     <div
       id="carouselExampleIndicators"
       class="carousel slide carousel-dark my-shadow"
@@ -60,12 +60,45 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-    <br />
-    <br />
-    <router-link to="/template">
-      <i class="fa fa-folder"></i>
-      <b>Template</b>
-    </router-link>
+    <h1 class="my-h1 mt-5">Servicios</h1>
+    <div class="row justify-content-md-center">
+      <div class="col-lg-6 py-2">
+        <!--card servicios pae-->
+        <div class="card">
+          <router-link to="/pae" style="text-decoration: none">
+            <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+            <div class="card-header table-title">
+              <h5 class="mb-3 mt-3">Programa Anual de Evaluación (PAE)</h5>
+            </div>
+          </router-link>
+        </div>
+        <!--card servicios pae end-->
+      </div>
+      <div class="col-lg-6 py-2">
+        <!--card servicios pbr-->
+        <div class="card">
+          <router-link to="/pbr" style="text-decoration: none">
+            <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+            <div class="card-header table-title">
+              <h5 class="mb-3 mt-3">Presupuesto basado en Resultados (PbR)</h5>
+            </div>
+          </router-link>
+        </div>
+        <!--card servicios pbr end-->
+      </div>
+      <div class="col-lg-6 py-2">
+        <!--card servicios agpr-->
+        <div class="card">
+          <router-link to="/agpr" style="text-decoration: none">
+            <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+            <div class="card-header table-title">
+              <h5 class="mb-3 mt-3">Estándar de Competencia</h5>
+            </div>
+          </router-link>
+        </div>
+        <!--card servicios agpr end-->
+      </div>
+    </div>
   </div>
 </template>
 

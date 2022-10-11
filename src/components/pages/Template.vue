@@ -192,6 +192,34 @@
     </div>
     <br />
     <br />
+    <div class="row">
+      <div class="col-lg-6 py-2">
+        <!--card servicios pae-->
+        <div class="card">
+          <router-link to="/contacto" style="text-decoration: none">
+            <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+            <div class="card-header table-title">
+              <h5 class="mb-3 mt-3">title</h5>
+            </div>
+          </router-link>
+        </div>
+        <!--card servicios pae end-->
+      </div>
+      <div class="col-sm-6 py-2">
+        <!--card servicios-->
+        <div class="card">
+          <router-link to="/contacto" style="text-decoration: none">
+            <img src="@/assets/img/example.jpg" class="w-100" alt="..." />
+            <div class="card-header card-header-nosotros">
+              <h5 class="card-title">TITLE</h5>
+            </div>
+          </router-link>
+        </div>
+        <!--card servicios end-->
+      </div>
+    </div>
+    <br />
+    <br />
   </div>
 </template>
 

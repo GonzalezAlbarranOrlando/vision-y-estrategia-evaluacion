@@ -177,6 +177,7 @@ div.my-shadow {
 div.card-header-nosotros {
     text-align: center;
     background-color: #a6c4ce;
+    color: black;
     padding: 20px;
     word-wrap: break-word;
 }

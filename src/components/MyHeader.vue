@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg header-text">
     <div class="container px-4">
       <!--Logo-->
-      <router-link class="nav-link active" aria-current="page" to="/">
+      <router-link aria-current="page" to="/">
         <img
           src="@/assets/img/vision-y-estrategia.png"
           width="180"
