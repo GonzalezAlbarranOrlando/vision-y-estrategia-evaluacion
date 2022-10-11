@@ -149,6 +149,11 @@ a.anchor-footer-text {
     text-decoration: none;
 }
 
+footer i {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 div.derechos-reservados {
     background-color: #5f676f;
     color: white;

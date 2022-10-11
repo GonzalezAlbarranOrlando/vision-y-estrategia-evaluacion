@@ -25,7 +25,7 @@
         <div class="carousel-item active" data-bs-interval="3000">
           <router-link to="/pae-calendario">
             <img
-              src="@/assets/img/carrusel-calendario-pae.jpeg"
+              src="@/assets/img/carrusel/carrusel-calendario-pae.jpeg"
               class="d-block w-100"
               alt="..."
             />
@@ -34,7 +34,7 @@
         <div class="carousel-item" data-bs-interval="3000">
           <router-link to="/pbr">
             <img
-              src="@/assets/img/carrusel-PbR.jpeg"
+              src="@/assets/img/carrusel/carrusel-PbR.jpeg"
               class="d-block w-100"
               alt="..."
             />

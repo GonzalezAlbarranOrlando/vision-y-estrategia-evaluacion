@@ -14,19 +14,19 @@
             <i class="fa fa-phone"></i>
             <br />
             <i class="fa fa-building-o"></i>
-            &nbsp;
+
             <a href="tel:123-456-7890" class="anchor-footer-text"
               >123-456-7890</a
             >
             <br />
             <i class="fa fa-volume-control-phone"></i>
-            &nbsp;
+
             <a href="tel:123-456-7890" class="anchor-footer-text"
               >123-456-7890</a
             >
             <br />
             <i class="fa fa-whatsapp"></i>
-            &nbsp;
+
             <a
               href="https://api.whatsapp.com/send?phone=1234567890"
               class="anchor-footer-text"
@@ -52,37 +52,29 @@
           </div>
           <div class="w-100"></div>
           <div class="col-12 center">
-            Mantente en Contacto &nbsp;
+            Mantente en Contacto
             <a
-              href="https://www.linkedin.com/company/maxancertificaci%C3%B3n/"
+              href="https://www.linkedin.com/company/visi%C3%B3n-y-estrategia/"
               class="anchor-footer-text"
               target="_blank"
             >
               <i class="fa fa-linkedin-square"></i>
             </a>
-            &nbsp;
+
             <a
-              href="https://www.facebook.com/maxancertificacion"
+              href="https://www.facebook.com/VyEstrategia"
               class="anchor-footer-text"
               target="_blank"
             >
               <i class="fa fa-facebook-square"></i>
             </a>
-            &nbsp;
+
             <a
-              href="https://twitter.com/maxan_certifica"
+              href="https://twitter.com/VyEstrategia?t=jgLuZ512xe8xGQBCG8Y6PQ&s=09"
               class="anchor-footer-text"
               target="_blank"
             >
               <i class="fa fa-twitter-square"></i>
-            </a>
-            &nbsp;
-            <a
-              href="https://www.youtube.com/channel/UCsPeus8MPPsGmjX6O1Yuvcw"
-              class="anchor-footer-text"
-              target="_blank"
-            >
-              <i class="fa fa-youtube-square"></i>
             </a>
           </div>
         </div>

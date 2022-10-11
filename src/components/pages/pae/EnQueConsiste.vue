@@ -52,7 +52,7 @@
     <div class="mb-3" style="text-align: center">
       <a
         class="download-text"
-        href="https://drive.google.com/uc?export=download&id=1BlQpO4VaWfS5UTmZ-XNyq7jUW9vqK6tl"
+        href="https://drive.google.com/uc?export=download&id=1ReFpsLT5V8KS0i0b2fq_YN93cF3t2Kf8"
         target="_blank"
       >
         Puedes descargar la guía práctica aquí
@@ -71,7 +71,7 @@
     <div class="mb-3" style="text-align: center">
       <a
         class="download-text"
-        href="https://drive.google.com/uc?export=download&id=1t01rxFweZz8nVEGPO0IcwYg5kQjvdQDR"
+        href="https://drive.google.com/uc?export=download&id=1dALVmkwtx1POo1yeKvSyLDlOm3WI1mF1"
         target="_blank"
       >
         Puedes descargar la guía práctica aquí

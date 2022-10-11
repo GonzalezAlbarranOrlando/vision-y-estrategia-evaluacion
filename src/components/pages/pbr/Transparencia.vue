@@ -5,7 +5,11 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/example.jpg" height="200px" alt="..." />
+          <img
+            src="@/assets/img/transparencia/transparencia1.jpeg"
+            height="200px"
+            alt="..."
+          />
           <div class="card-body card-body-transparencia">
             <h2 class="my-h2">Apoyo Financiero</h2>
             <div class="general-text">
@@ -22,7 +26,11 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/example.jpg" height="200px" alt="..." />
+          <img
+            src="@/assets/img/transparencia/transparencia2.jpeg"
+            height="200px"
+            alt="..."
+          />
           <div class="card-body card-body-transparencia">
             <h2 class="my-h2">Derechos de los Solicitantes</h2>
             <div class="general-text">
@@ -41,7 +49,11 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/example.jpg" height="200px" alt="..." />
+          <img
+            src="@/assets/img/transparencia/transparencia3.jpeg"
+            height="200px"
+            alt="..."
+          />
           <div class="card-body card-body-transparencia-descarga">
             <h2 class="my-h2">Derechos y Deberes de los Clientes</h2>
             <div class="general-text">
@@ -50,7 +62,7 @@
                   Puedes descargar el contrato de prestación de servicios
                   <a
                     class="download-here"
-                    href="https://www.google.com"
+                    href="https://drive.google.com/uc?export=download&id=11wZlHC6Y7qZ-932PJhdUClHFlppAHVEt"
                     target="_blank"
                   >
                     aquí </a
@@ -65,7 +77,11 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/example.jpg" height="200px" alt="..." />
+          <img
+            src="@/assets/img/transparencia/transparencia4.jpeg"
+            height="200px"
+            alt="..."
+          />
           <div class="card-body card-body-transparencia-descarga">
             <h2 class="my-h2">Formato de Quejas</h2>
             <div class="general-text">
@@ -74,7 +90,7 @@
                   Puedes descargar el formato de quejas
                   <a
                     class="download-here"
-                    href="https://www.google.com"
+                    href="https://drive.google.com/uc?export=download&id=1pz0LIZl_MHH3JNrHMxiWKg5phL68x8F5"
                     target="_blank"
                   >
                     aquí </a
@@ -89,7 +105,11 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/example.jpg" height="200px" alt="..." />
+          <img
+            src="@/assets/img/transparencia/transparencia5.jpeg"
+            height="200px"
+            alt="..."
+          />
           <div class="card-body card-body-transparencia-descarga">
             <h2 class="my-h2">Procedimiento de Quejas</h2>
             <div class="general-text">
@@ -98,7 +118,7 @@
                   Puedes descargar el procedimiento de quejas
                   <a
                     class="download-here"
-                    href="https://www.google.com"
+                    href="https://drive.google.com/uc?export=download&id=1MFbo67laEBZEw2NEZDxXVNiV6yuuqfFo"
                     target="_blank"
                   >
                     aquí </a
