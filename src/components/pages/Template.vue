@@ -220,6 +220,295 @@
     </div>
     <br />
     <br />
+    <div class="row justify-content-center">
+      <div class="col-sm-6 col-lg-3 py-2">
+        <img
+          src="@/assets/img/equipo/01-VICENTE.jpg"
+          class="w-100"
+          style="border: 2px solid #555"
+          alt="..."
+        />
+        <h2 class="my-h2" style="text-align: center">name</h2>
+        <div class="general-text" style="text-align: center">text</div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-2">
+        <img
+          src="@/assets/img/equipo/02-LALO.jpg"
+          class="w-100 rounded-circle"
+          alt="..."
+        />
+        <h2 class="my-h2" style="text-align: center">name</h2>
+        <div class="general-text" style="text-align: center">text</div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-2">
+        <img
+          src="@/assets/img/equipo/03-MIRIAM.jpg"
+          class="w-100 rounded-5"
+          style="border: 2px solid #555"
+          alt="..."
+        />
+        <h2 class="my-h2" style="text-align: center">name</h2>
+        <div class="general-text" style="text-align: center">text</div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-2">
+        <img
+          src="@/assets/img/equipo/04-ANDREA.jpg"
+          class="w-100 rounded-5"
+          alt="..."
+        />
+        <h2 class="my-h2" style="text-align: center">name</h2>
+        <div class="general-text" style="text-align: center">text</div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <div class="card-deck row">
+      <div class="card col-sm-6 col-lg-3">
+        <img
+          class="card-img-top"
+          src="@/assets/img/equipo/01-VICENTE.jpg"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            This card has supporting text below as a natural lead-in to
+            additional content.
+          </p>
+        </div>
+      </div>
+      <div class="card col-sm-6 col-lg-3">
+        <img
+          class="card-img-top"
+          src="@/assets/img/equipo/02-LALO.jpg"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            This card has supporting text below as a natural lead-in to
+            additional content.
+          </p>
+        </div>
+      </div>
+      <div class="card col-sm-6 col-lg-3">
+        <img
+          class="card-img-top"
+          src="@/assets/img/equipo/03-MIRIAM.jpg"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            This card has supporting text below as a natural lead-in to
+            additional content.
+          </p>
+        </div>
+      </div>
+      <div class="card col-sm-6 col-lg-3">
+        <img
+          class="card-img-top"
+          src="@/assets/img/equipo/04-ANDREA.jpg"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            This card has supporting text below as a natural lead-in to
+            additional content.
+          </p>
+        </div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="row">
+      <div class="col-sm-6 col-lg-3">
+        <!--card equipo-->
+        <div class="card">
+          <img
+            src="@/assets/img/equipo/01-VICENTE.jpg"
+            class="w-100 rounded-circle"
+            alt="..."
+          />
+          <div class="card-body card-body-equipo">
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card equipo end-->
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <!--card equipo-->
+        <div class="card">
+          <img
+            src="@/assets/img/equipo/02-LALO.jpg"
+            class="w-100 rounded-circle"
+            alt="..."
+          />
+          <div class="card-body card-body-equipo">
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card equipo end-->
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <!--card equipo-->
+        <div class="card">
+          <img
+            src="@/assets/img/equipo/03-MIRIAM.jpg"
+            class="w-100"
+            alt="..."
+          />
+          <div class="card-body card-body-equipo">
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card equipo end-->
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <!--card equipo-->
+        <div class="card">
+          <img
+            src="@/assets/img/equipo/04-ANDREA.jpg"
+            class="w-100"
+            alt="..."
+          />
+          <div class="card-body card-body-equipo">
+            <h2 class="my-h2">Title</h2>
+            <div class="general-text">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              eiusmod.
+            </div>
+          </div>
+        </div>
+        <!--card equipo end-->
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <h2 class="my-h2">EQUIPO EVALUADOR</h2>
+    <div class="row">
+      <div class="col-sm-6 col-lg-3">
+        <!--card nosotros-->
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/04-ANDREA.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+        <!--card nosotros end-->
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div
+      id="carouselCaptions"
+      class="carousel slide carousel-dark px-5"
+      data-bs-ride="true"
+    >
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-bs-target="#carouselCaptions"
+          data-bs-slide-to="0"
+          class="active"
+          aria-current="true"
+          aria-label="Slide 1"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#carouselCaptions"
+          data-bs-slide-to="1"
+          aria-label="Slide 2"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="3000">
+          <div style="margin: 300px">
+            <img
+              src="@/assets/img/equipo/04-ANDREA.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>First slide label</h5>
+            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">
+          <div style="margin: 300px">
+            <img
+              src="@/assets/img/equipo/05-HAROLD.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>First slide label</h5>
+            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          </div>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselCaptions"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselCaptions"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
   </div>
 </template>
 
