@@ -218,6 +218,11 @@ div.card-body-equipo {
     font-weight: bold;
 }
 
+.obligatorio {
+    color: black;
+    margin-top: 20px;
+    font-size: 12px;
+}
 
 button.btn {
     display: inline-block;

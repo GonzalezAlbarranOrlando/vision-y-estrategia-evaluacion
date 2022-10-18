@@ -8,55 +8,40 @@
     <form @submit.prevent="myValidation" class="my-5">
       <div class="row">
         <div class="col-md-6 mb-3">
-          <label>Nombre(s)</label>
-          <input
-            type="text"
-            class="form-control"
-            required
-            v-model="firstName"
-          />
+          <label>Nombre(s):*</label>
+          <input type="text" class="form-control" v-model="firstName" />
           <div v-if="firstNameError" class="error">{{ firstNameError }}</div>
         </div>
         <div class="col-md-6 mb-3">
-          <label>Apellidos</label>
-          <input type="text" class="form-control" required v-model="lastName" />
+          <label>Apellidos:*</label>
+          <input type="text" class="form-control" v-model="lastName" />
           <div v-if="lastNameError" class="error">{{ lastNameError }}</div>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6 mb-3">
-          <label>Correo electrónico</label>
+          <label>Correo electrónico:*</label>
           <input
             type="text"
             class="form-control"
             placeholder="name@example.com"
-            required
             v-model="email"
           />
           <div v-if="emailError" class="error">{{ emailError }}</div>
         </div>
         <div class="col-md-6 mb-3">
-          <label>Teléfono</label>
-          <input
-            type="tel"
-            class="form-control"
-            required
-            v-model="phoneNumber"
-          />
+          <label>Teléfono:*</label>
+          <input type="tel" class="form-control" v-model="phoneNumber" />
           <div v-if="phoneNumberError" class="error">
             {{ phoneNumberError }}
           </div>
         </div>
       </div>
       <div class="mb-3">
-        <label class="form-label">Mensaje</label>
-        <textarea
-          class="form-control"
-          rows="3"
-          required
-          v-model="message"
-        ></textarea>
+        <label class="form-label">Mensaje:*</label>
+        <textarea class="form-control" rows="3" v-model="message"></textarea>
       </div>
+      <div class="obligatorio">* Campos obligatorios</div>
       <div style="text-align: center">
         <button class="btn btn-secondary" type="submit">Enviar</button>
       </div>
@@ -85,15 +70,28 @@ export default {
   },
   methods: {
     myValidation() {
+      // required validation
+      if (
+        !(
+          this.firstName &&
+          this.lastName &&
+          this.email &&
+          this.phoneNumber &&
+          this.message
+        )
+      ) {
+        alert("Todos los campos son obligatorios.");
+        return;
+      }
       //First/Last name regular expression validator
       //Orlando, orlando, ORLANDO, orlando glez, Ana Sofia, Orlando González, McMiller, John D'Largy, John Doe-Smith
       var regName = /^[a-zA-z ,'.áéíóú-]+$/;
       this.firstNameError = regName.test(this.firstName)
         ? ""
-        : "Nombre(s) no válido";
+        : "No debe contener números ni caracteres especiales";
       this.lastNameError = regName.test(this.lastName)
         ? ""
-        : "Apellido(s) no válido";
+        : "No debe contener números ni caracteres especiales";
       //Email regular expression validator
       /* eslint-disable */
       var regEmail =
@@ -103,7 +101,7 @@ export default {
       var regPhone = /^\d{10}$/;
       this.phoneNumberError = regPhone.test(this.phoneNumber)
         ? ""
-        : "No es un número de 10 dígitos";
+        : "Debe ser un número de 10 dígitos";
       console.log(this.firstNameError);
       // true || true == true
       // true || false == true
