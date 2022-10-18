@@ -13,10 +13,13 @@
           </div>
           <div class="card-body card-body-nosotros">
             <p class="card-text">
-              Ofrecer a organizaciones públicas, privadas o sociales soluciones
-              para optimizar, estandarizar, capacitar y dar mantenimiento a sus
-              procesos internos de trabajo, a través de la implantación de
-              sistemas de gestión.
+              Somos una Organización que ofrece servicios profesionales con
+              personal altamente competente, que promueve entre nuestros
+              clientes y partes interesadas un ambiente de confianza; con
+              precios competitivos, equitativos y atractivos conforme a la
+              dinámica del mercado, tenemos amplia capacidad para dar
+              certidumbre en la ejecución de nuestras evaluaciones; entregamos
+              oportunamente los informes de evaluación a las instituciones.
             </p>
           </div>
         </div>
@@ -30,8 +33,13 @@
           </div>
           <div class="card-body card-body-nosotros">
             <p class="card-text">
-              Consolidarnos como una empresa líder en México, con los más altos
-              estándares de calidad en la implantación de sistemas de gestión.
+              Ser en el mercado de la evaluación un referente distintivo por
+              nuestras capacidades innovadoras que nos definirá como una marca
+              exitosa en la evaluación, tendremos la mejor oferta en cuanto al
+              desarrollo de evaluaciones; seremos un equipo de especialistas con
+              capacidad para trabajar con altos estándares de calidad, armonía,
+              espíritu de compañerismo y trabajo en equipo, lo que nos
+              convertirá en el equipo evaluador de mayor presencia nacional.
             </p>
           </div>
         </div>
