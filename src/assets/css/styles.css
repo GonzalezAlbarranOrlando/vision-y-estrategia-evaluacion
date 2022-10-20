@@ -14,10 +14,12 @@ nav li b {
     font-size: 18px;
 }
 
-nav li font {
+nav li p {
     /* 61BDD0 60bccf 68bccc 488d9e*/
     color: #68bccc;
     font-size: 15px;
+    display: inline
+        /*avoid a new line*/
 }
 
 nav li i {

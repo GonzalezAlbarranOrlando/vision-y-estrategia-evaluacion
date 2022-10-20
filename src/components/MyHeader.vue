@@ -33,7 +33,7 @@
           </li>
           <li class="nav-item px-3">
             <router-link class="nav-link" to="/nosotros">
-              <i class="fa fa-phone"></i>
+              <i class="fa fa-users"></i>
               <b>Nosotros</b>
             </router-link>
           </li>
@@ -51,24 +51,24 @@
             <ul class="dropdown-menu">
               <li>
                 <router-link class="dropdown-item" to="/pae">
-                  <font>Programa Anual de Evaluación (PAE)</font>
+                  <p>Programa Anual de Evaluación (PAE)</p>
                 </router-link>
               </li>
               <li>
                 <router-link class="dropdown-item" to="/pbr">
-                  <font>Presupuesto basado en Resultados (PbR)</font>
+                  <p>Presupuesto basado en Resultados (PbR)</p>
                 </router-link>
               </li>
               <li>
                 <router-link class="dropdown-item" to="/agpr">
-                  <font>Estándar de Competencia</font>
+                  <p>Estándar de Competencia</p>
                 </router-link>
               </li>
             </ul>
           </li>
           <li class="nav-item px-3">
             <router-link class="nav-link" to="/boletines">
-              <i class="fa fa-phone"></i>
+              <i class="fa fa-newspaper-o"></i>
               <b>Boletines</b>
             </router-link>
           </li>
