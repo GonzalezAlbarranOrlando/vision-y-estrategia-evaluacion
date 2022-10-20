@@ -82,11 +82,7 @@
 
     <!--download text-->
     <div class="mb-3" style="text-align: center">
-      <a
-        class="download-text"
-        href="https://drive.google.com/uc?export=download&id=1AF9ZwZJQrZD97UGfK6QFAxcyQtQTbzGX"
-        target="_blank"
-      >
+      <a class="download-text" href="/pdf/example.pdf" target="_blank">
         Descargar aquí la presentación del Estándar
         <i class="fa fa-cloud-download download-text"></i>
       </a>

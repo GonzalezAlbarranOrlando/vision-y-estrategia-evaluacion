@@ -62,7 +62,7 @@
                   Puedes descargar el contrato de prestación de servicios
                   <a
                     class="download-here"
-                    href="https://drive.google.com/uc?export=download&id=11wZlHC6Y7qZ-932PJhdUClHFlppAHVEt"
+                    href="/pdf/Contrato de Presupuesto basado en Resultados.pdf"
                     target="_blank"
                   >
                     aquí </a
@@ -90,7 +90,7 @@
                   Puedes descargar el formato de quejas
                   <a
                     class="download-here"
-                    href="https://drive.google.com/uc?export=download&id=1pz0LIZl_MHH3JNrHMxiWKg5phL68x8F5"
+                    href="/pdf/formato de quejas.pdf"
                     target="_blank"
                   >
                     aquí </a
@@ -118,7 +118,7 @@
                   Puedes descargar el procedimiento de quejas
                   <a
                     class="download-here"
-                    href="https://drive.google.com/uc?export=download&id=1MFbo67laEBZEw2NEZDxXVNiV6yuuqfFo"
+                    href="/pdf/procedimiento de quejas PbR.pdf"
                     target="_blank"
                   >
                     aquí </a

@@ -52,23 +52,13 @@
     <!--General text end-->
     <br />
     <!--download here-->
-    <a
-      class="download-here"
-      href="https://drive.google.com/uc?export=download&id=1t01rxFweZz8nVEGPO0IcwYg5kQjvdQDR"
-      target="_blank"
-    >
-      aquí
-    </a>
+    <a class="download-here" href="/pdf/example.pdf" target="_blank"> aquí </a>
     <!--download here end-->
     <br />
 
     <!--download text-->
     <div class="mb-3" style="text-align: center">
-      <a
-        class="download-text"
-        href="https://drive.google.com/uc?export=download&id=1t01rxFweZz8nVEGPO0IcwYg5kQjvdQDR"
-        target="_blank"
-      >
+      <a class="download-text" href="/pdf/example.pdf" target="_blank">
         Download text
         <i class="fa fa-cloud-download download-text"></i>
       </a>
