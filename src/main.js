@@ -7,6 +7,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Inicio from './components/pages/Inicio.vue'
 import Contacto from './components/pages/Contacto.vue'
 import Nosotros from './components/pages/Nosotros.vue'
+import Boletines from './components/pages/Boletines.vue'
 import Template from '@/components/pages/Template.vue'
 import PAEcalendario from '@/components/pages/pae/Calendario.vue'
 import PAEhome from '@/components/pages/pae/PAE-Home.vue'
@@ -19,6 +20,7 @@ const routes = [
     { path: '/', component: Inicio },
     { path: '/contacto', component: Contacto },
     { path: '/nosotros', component: Nosotros },
+    { path: '/boletines', component: Boletines },
     { path: '/template', component: Template },
     { path: '/pae-calendario', component: PAEcalendario },
     { path: '/pae', component: PAEhome },

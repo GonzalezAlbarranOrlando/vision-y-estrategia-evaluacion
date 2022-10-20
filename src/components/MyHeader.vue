@@ -67,6 +67,12 @@
             </ul>
           </li>
           <li class="nav-item px-3">
+            <router-link class="nav-link" to="/boletines">
+              <i class="fa fa-phone"></i>
+              <b>Boletines</b>
+            </router-link>
+          </li>
+          <li class="nav-item px-3">
             <router-link class="nav-link" to="/contacto">
               <i class="fa fa-phone"></i>
               <b>Contacto</b>
