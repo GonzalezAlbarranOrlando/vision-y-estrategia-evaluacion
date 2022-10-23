@@ -5,7 +5,7 @@
       <p class="animate__animated animate__slideInDown">Boletines</p>
     </div>
     <!--Accordion-->
-    <div class="accordion" id="accordionExample">
+    <div class="accordion mb-5" id="accordionExample">
       <div class="accordion-item">
         <h2 class="accordion-header" id="headingOne">
           <button
@@ -285,7 +285,7 @@
       </div>
 
       <div class="accordion-item">
-        <h2 class="accordion-header" id="headingThree">
+        <h2 class="accordion-header" id="headingFour">
           <button
             class="accordion-button collapsed"
             type="button"
@@ -301,7 +301,7 @@
         <div
           id="collapseFour"
           class="accordion-collapse collapse"
-          aria-labelledby="headingThree"
+          aria-labelledby="headingFour"
           data-bs-parent="#accordionExample"
         >
           <div class="accordion-body">
@@ -374,7 +374,7 @@
         </div>
       </div>
       <div class="accordion-item">
-        <h2 class="accordion-header" id="headingThree">
+        <h2 class="accordion-header" id="headingFive">
           <button
             class="accordion-button collapsed"
             type="button"
@@ -393,7 +393,7 @@
         <div
           id="collapseFive"
           class="accordion-collapse collapse"
-          aria-labelledby="headingThree"
+          aria-labelledby="headingFive"
           data-bs-parent="#accordionExample"
         >
           <div class="accordion-body">
