@@ -4,7 +4,7 @@
     <div class="animate-div">
       <p class="animate__animated animate__slideInDown">Nosotros</p>
     </div>
-    <div class="row">
+    <div class="row mb-5 mt-1">
       <div class="col-lg-6 py-2">
         <!--card MISIÓN-->
         <div class="card">
@@ -45,17 +45,137 @@
         </div>
         <!--card VISIÓN end-->
       </div>
-      <div class="col-12 py-2">
-        <!--card EQUIPO EVALUADOR-->
+    </div>
+
+    <h2 class="my-h2">EQUIPO EVALUADOR</h2>
+    <div class="row justify-content-center">
+      <div class="col-sm-6 col-lg-3 py-3">
         <div class="card">
-          <div class="card-header card-header-nosotros">
-            <h5 class="card-title">EQUIPO EVALUADOR</h5>
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/01-VICENTE.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
           </div>
-          <div class="card-body card-body-nosotros">
-            <p class="card-text">text</p>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
           </div>
         </div>
-        <!--card EQUIPO EVALUADOR end-->
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/02-LALO.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/03-MIRIAM.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/04-ANDREA.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/05-HAROLD.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/06-CARLOS.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/07-FELIPE.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3 py-3">
+        <div class="card">
+          <div class="card-body">
+            <img
+              src="@/assets/img/equipo/08-RAMON.jpg"
+              class="w-100 rounded-circle"
+              alt="..."
+            />
+          </div>
+          <div class="card-header card-header-nosotros">
+            <div class="general-text" style="color: black; text-align: center">
+              <b>Title</b><br />subtitle
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
