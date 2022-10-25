@@ -498,7 +498,7 @@
     <br />
     <br />
     <br />
-    <!--Accordion-->
+    <!--Accordion example-->
     <div class="accordion" id="accordionExample">
       <div class="accordion-item">
         <h2 class="accordion-header" id="headingOne">
@@ -594,7 +594,105 @@
         </div>
       </div>
     </div>
-    <!--Accordion end-->
+    <!--Accordion example end-->
+    <br />
+
+    <!--Accordion mood-->
+    <div class="accordion" id="accordionMood">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading1">
+          <button
+            class="accordion-button"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse1"
+            aria-expanded="true"
+            aria-controls="collapse1"
+          >
+            Accordion Item #1
+          </button>
+        </h2>
+        <div
+          id="collapse1"
+          class="accordion-collapse collapse show"
+          aria-labelledby="heading1"
+          data-bs-parent="#accordionMood"
+        >
+          <div class="accordion-body">text #1</div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading2">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse2"
+            aria-expanded="false"
+            aria-controls="collapse2"
+          >
+            Accordion Item #2
+          </button>
+        </h2>
+        <div
+          id="collapse2"
+          class="accordion-collapse collapse"
+          aria-labelledby="heading2"
+          data-bs-parent="#accordionMood"
+        >
+          <div class="accordion-body">text #2</div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading3">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse3"
+            aria-expanded="false"
+            aria-controls="collapse3"
+          >
+            Accordion Item #3
+          </button>
+        </h2>
+        <div
+          id="collapse3"
+          class="accordion-collapse collapse"
+          aria-labelledby="heading3"
+          data-bs-parent="#accordionMood"
+        >
+          <div class="accordion-body">text #3</div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading4">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse4"
+            aria-expanded="false"
+            aria-controls="collapse4"
+          >
+            Accordion Item #4
+          </button>
+        </h2>
+        <div
+          id="collapse4"
+          class="accordion-collapse collapse"
+          aria-labelledby="heading4"
+          data-bs-parent="#accordionMood"
+        >
+          <div class="accordion-body">text #4</div>
+        </div>
+      </div>
+    </div>
+    <!--Accordion mood end-->
+    <br />
+    <br />
+    <br />
+    <br />
     <br />
   </div>
 </template>

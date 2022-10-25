@@ -59,9 +59,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -75,9 +73,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -91,9 +87,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -107,9 +101,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -123,9 +115,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -139,9 +129,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -155,9 +143,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>
@@ -171,9 +157,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <div class="general-text" style="color: black; text-align: center">
-              <b>Title</b><br />subtitle
-            </div>
+            <b>Title</b><br />subtitle
           </div>
         </div>
       </div>

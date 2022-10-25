@@ -5,7 +5,7 @@
       <p class="animate__animated animate__slideInDown">Boletines</p>
     </div>
     <!--Accordion-->
-    <div class="accordion mb-5" id="accordionExample">
+    <div class="accordion mb-5" id="accordionBoletines">
       <div class="accordion-item">
         <h2 class="accordion-header" id="headingOne">
           <button
@@ -23,7 +23,7 @@
           id="collapseOne"
           class="accordion-collapse collapse show"
           aria-labelledby="headingOne"
-          data-bs-parent="#accordionExample"
+          data-bs-parent="#accordionBoletines"
         >
           <div class="accordion-body">
             Meses atrás me encontraba con un libro que vendría a revolucionar mi
@@ -108,7 +108,7 @@
           id="collapseTwo"
           class="accordion-collapse collapse"
           aria-labelledby="headingTwo"
-          data-bs-parent="#accordionExample"
+          data-bs-parent="#accordionBoletines"
         >
           <div class="accordion-body">
             ¡Vivimos en un mundo globalizado!, es una frase que escuchamos
@@ -193,7 +193,7 @@
           id="collapseThree"
           class="accordion-collapse collapse"
           aria-labelledby="headingThree"
-          data-bs-parent="#accordionExample"
+          data-bs-parent="#accordionBoletines"
         >
           <div class="accordion-body">
             Los problemas emocionales son cada vez más frecuentes en los
@@ -302,7 +302,7 @@
           id="collapseFour"
           class="accordion-collapse collapse"
           aria-labelledby="headingFour"
-          data-bs-parent="#accordionExample"
+          data-bs-parent="#accordionBoletines"
         >
           <div class="accordion-body">
             En los últimos años algunas palabras han tomado mayor relevancia en
@@ -394,7 +394,7 @@
           id="collapseFive"
           class="accordion-collapse collapse"
           aria-labelledby="headingFive"
-          data-bs-parent="#accordionExample"
+          data-bs-parent="#accordionBoletines"
         >
           <div class="accordion-body">
             <b

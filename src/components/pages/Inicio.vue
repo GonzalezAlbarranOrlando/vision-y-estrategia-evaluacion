@@ -77,7 +77,7 @@
     </div>
     <h1 class="my-h1 mt-5">Servicios</h1>
     <div class="row justify-content-center">
-      <div class="col-lg-6 py-2">
+      <div class="col-sm-6 py-2">
         <!--card servicios pae-->
         <div class="card">
           <router-link to="/pae" style="text-decoration: none">
@@ -93,7 +93,7 @@
         </div>
         <!--card servicios pae end-->
       </div>
-      <div class="col-lg-6 py-2">
+      <div class="col-sm-6 py-2">
         <!--card servicios pbr-->
         <div class="card">
           <router-link to="/pbr" style="text-decoration: none">
@@ -109,7 +109,7 @@
         </div>
         <!--card servicios pbr end-->
       </div>
-      <div class="col-lg-6 py-2">
+      <div class="col-sm-6 py-2">
         <!--card servicios agpr-->
         <div class="card">
           <router-link to="/agpr" style="text-decoration: none">
