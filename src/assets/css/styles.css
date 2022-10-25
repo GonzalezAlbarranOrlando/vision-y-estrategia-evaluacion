@@ -103,7 +103,7 @@ div.table-title {
 div.table-white {
     text-align: justify;
     background-color: white;
-    border-style: solid none none none;
+    border-style: none none none none;
     border-width: 1px;
     border-color: black;
     padding: 7px;
@@ -113,7 +113,7 @@ div.table-white {
 div.table-blue {
     text-align: justify;
     background-color: #a6c4ce;
-    border-style: solid none none none;
+    border-style: none none none none;
     border-width: 1px;
     border-color: black;
     padding: 7px;
@@ -245,12 +245,14 @@ button.btn {
 /*form end*/
 
 /*Accordion mood*/
-#accordionMood .accordion-button {
+#accordionMood .accordion-button,
+#accordionPaeCapacitacion .accordion-button {
     color: white;
     background-color: #31586e;
 }
 
-#accordionMood .accordion-button:after {
+#accordionMood .accordion-button:after,
+#accordionPaeCapacitacion .accordion-button:after {
     background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
 }
 
