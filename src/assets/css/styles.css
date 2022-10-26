@@ -80,6 +80,13 @@ i.download-text {
     color: #31586e;
 }
 
+select.form-select {
+    text-align: center;
+    color: #5f676f;
+    background-color: #f4f5f5;
+    font-size: 25px;
+}
+
 /*headings and texts end*/
 
 /* Capacitacion tables*/
