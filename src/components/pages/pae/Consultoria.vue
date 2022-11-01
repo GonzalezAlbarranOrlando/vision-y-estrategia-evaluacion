@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="my-h1">Consultoria</h1>
+    <h1 class="my-h1">Consultoría</h1>
     <div class="general-text">
       Los trabajos que realizamos se fundamentan en el artículo 79 de la Ley
       General de Contabilidad Gubernamental, donde se indica la obligación de

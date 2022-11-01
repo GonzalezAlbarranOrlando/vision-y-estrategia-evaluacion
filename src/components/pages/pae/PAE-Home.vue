@@ -14,7 +14,7 @@
     >
       <option selected value="EnQueConsiste">En que consiste</option>
       <option value="PreguntasFrecuentes">Preguntas frecuentes</option>
-      <option value="Consultoria">Consultoria</option>
+      <option value="Consultoria">Consultoría</option>
       <option value="Capacitacion">Capacitación</option>
     </select>
     <!--
