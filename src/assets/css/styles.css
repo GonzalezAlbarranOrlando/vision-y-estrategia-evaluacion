@@ -165,9 +165,12 @@ footer i {
 
 div.derechos-reservados {
     background-color: #5f676f;
+    color: white;  
+}
+
+a.download-footer{
+    text-decoration: none;
     color: white;
-    text-align: center;
-    font-size: 11px;
 }
 
 /*footer end*/

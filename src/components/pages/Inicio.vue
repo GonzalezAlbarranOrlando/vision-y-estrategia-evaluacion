@@ -126,15 +126,6 @@
         <!--card servicios agpr end-->
       </div>
     </div>
-    <div class="alert alert-danger my-5" role="alert">
-      Favor de leer el
-      <a
-        href="/pdf/AVISO DE PRIVACIDAD Y CONFIDENCIALIDAD.pdf"
-        download
-        class="alert-link"
-        >Aviso de privacidad y confidencialidad</a
-      >.
-    </div>
   </div>
 </template>
 

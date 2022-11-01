@@ -91,7 +91,21 @@
     </div>
   </div>
   <div class="container-fluid derechos-reservados">
-    Todos los derechos reservados.
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6" style="text-align: start">
+          Todos los derechos reservados.
+        </div>
+        <div class="col-sm-6" style="text-align: end">
+          <a
+            href="/pdf/AVISO DE PRIVACIDAD Y CONFIDENCIALIDAD.pdf"
+            download
+            class="download-footer"
+            >Aviso de privacidad y confidencialidad.</a
+          >
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
