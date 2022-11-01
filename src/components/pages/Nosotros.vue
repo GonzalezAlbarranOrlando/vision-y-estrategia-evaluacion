@@ -143,7 +143,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Felipe</b><br />subtitle
+            <b>Felipe Gabino Macedo</b><br />subtitle
           </div>
         </div>
       </div>
