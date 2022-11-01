@@ -47,7 +47,6 @@ a.dropdown-toggle::after {
 }
 
 h1.my-h1 {
-    text-align: center;
     color: #5f676f;
     margin-bottom: 50px;
 }
@@ -84,7 +83,7 @@ select.form-select {
     text-align: center;
     color: #5f676f;
     background-color: #f4f5f5;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 /*headings and texts end*/
@@ -190,6 +189,12 @@ div.card-header-nosotros {
     color: black;
     padding: 20px;
     word-wrap: break-word;
+}
+
+#equipo .card-header-nosotros {
+    height: 100px;
+    width: 100%;
+    padding: 25px 0;
 }
 
 div.card-body-nosotros {

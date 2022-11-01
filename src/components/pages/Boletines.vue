@@ -25,7 +25,7 @@
           aria-labelledby="headingOne"
           data-bs-parent="#accordionBoletines"
         >
-          <div class="accordion-body">
+          <div class="accordion-body general-text">
             Meses atrás me encontraba con un libro que vendría a revolucionar mi
             pensamiento, este libro es autoría de Ramón Muñoz Gutiérrez y se
             llama
@@ -110,7 +110,7 @@
           aria-labelledby="headingTwo"
           data-bs-parent="#accordionBoletines"
         >
-          <div class="accordion-body">
+          <div class="accordion-body general-text">
             ¡Vivimos en un mundo globalizado!, es una frase que escuchamos
             diariamente en todos los ámbitos de nuestra vida, por lo que no es
             raro que sea también el común denominador de un discurso
@@ -195,7 +195,7 @@
           aria-labelledby="headingThree"
           data-bs-parent="#accordionBoletines"
         >
-          <div class="accordion-body">
+          <div class="accordion-body general-text">
             Los problemas emocionales son cada vez más frecuentes en los
             trabajadores de instituciones y empresas. El año 2016 la
             Organización Internacional del Trabajo (OIT) inició una cruzada para
@@ -304,7 +304,7 @@
           aria-labelledby="headingFour"
           data-bs-parent="#accordionBoletines"
         >
-          <div class="accordion-body">
+          <div class="accordion-body general-text">
             En los últimos años algunas palabras han tomado mayor relevancia en
             las expresiones comunes del día a día, una de ellas es el término
             #innovación. De acuerdo con Google Trends, la búsqueda digital de la
@@ -396,7 +396,7 @@
           aria-labelledby="headingFive"
           data-bs-parent="#accordionBoletines"
         >
-          <div class="accordion-body">
+          <div class="accordion-body general-text">
             <b
               >La Guía Internacional ISO/TS 54001:2019 - Requerimientos
               específicos para la aplicación de la norma ISO 9001:2015 a

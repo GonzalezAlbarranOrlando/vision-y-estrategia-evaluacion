@@ -82,7 +82,11 @@
 
     <!--download text-->
     <div class="mb-3" style="text-align: center">
-      <a class="download-text" href="/pdf/example.pdf" target="_blank">
+      <a
+        class="download-text"
+        href="/pptx/Estandar de Competencia, AGpR.pptx"
+        target="_blank"
+      >
         Descargar aquí la presentación del Estándar
         <i class="fa fa-cloud-download download-text"></i>
       </a>

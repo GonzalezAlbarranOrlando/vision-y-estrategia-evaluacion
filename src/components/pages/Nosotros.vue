@@ -48,7 +48,7 @@
     </div>
 
     <h2 class="my-h2">EQUIPO EVALUADOR</h2>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center" id="equipo">
       <div class="col-sm-6 col-lg-3 py-3">
         <div class="card">
           <div class="card-body">
@@ -59,7 +59,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Vicente Martínez Iniesta</b><br />subtitle
           </div>
         </div>
       </div>
@@ -73,7 +73,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>José Eduardo Jerónimo Herrera</b><br />subtitle
           </div>
         </div>
       </div>
@@ -87,7 +87,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Miriam Ruíz Martínez</b><br />subtitle
           </div>
         </div>
       </div>
@@ -101,7 +101,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Andrea González Palma</b><br />subtitle
           </div>
         </div>
       </div>
@@ -115,7 +115,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Harold Alexander Carrillo Cuenca</b><br />subtitle
           </div>
         </div>
       </div>
@@ -129,7 +129,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Carlos Beltrán Jaramillo</b><br />subtitle
           </div>
         </div>
       </div>
@@ -143,7 +143,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Felipe</b><br />subtitle
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@
             />
           </div>
           <div class="card-header card-header-nosotros">
-            <b>Title</b><br />subtitle
+            <b>Ramón Cuevas Martínez</b><br />subtitle
           </div>
         </div>
       </div>

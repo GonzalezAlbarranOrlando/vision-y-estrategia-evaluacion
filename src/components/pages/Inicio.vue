@@ -132,7 +132,7 @@
         href="/pdf/AVISO DE PRIVACIDAD Y CONFIDENCIALIDAD.pdf"
         download
         class="alert-link"
-        >Aviso de privacidad</a
+        >Aviso de privacidad y confidencialidad</a
       >.
     </div>
   </div>
