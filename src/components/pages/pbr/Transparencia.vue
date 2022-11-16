@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="my-h1">Transparencia</h1>
-    <div class="row">
+    <div class="row justify-content-center">
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">

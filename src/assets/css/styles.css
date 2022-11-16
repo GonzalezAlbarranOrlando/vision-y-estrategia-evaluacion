@@ -5,7 +5,7 @@
 /*narbar*/
 nav {
     /*  f7f7f7 f1f1f1 f4f5f5 c2c6c7 */
-    background-color: #f4f5f5;
+    background-color: white;
 }
 
 nav li b {
@@ -195,7 +195,7 @@ div.card-header-nosotros {
 }
 
 #equipo .card-header-nosotros {
-    height: 100px;
+    min-height: 250px;
     width: 100%;
     padding: 25px 0;
 }
@@ -276,3 +276,8 @@ button.btn {
 }
 
 /*Accordion mood end*/
+
+/* vertical center */
+div.ext-box { display: table; width:100%;}
+div.int-box { display: table-cell; vertical-align: middle; }
+/* vertical center end*/

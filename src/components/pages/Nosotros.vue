@@ -58,8 +58,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Vicente Martínez Iniesta</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Vicente Martínez Iniesta</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -72,8 +82,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>José Eduardo Jerónimo Herrera</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>José Eduardo Jerónimo Herrera</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -86,8 +106,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Miriam Ruíz Martínez</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Miriam Ruíz Martínez</b>
+              <br />
+              Evaluadora
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -100,8 +130,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Andrea González Palma</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Andrea González Palma</b>
+              <br />
+              Evaluadora
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -114,8 +154,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Harold Alexander Carrillo Cuenca</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Harold Alexander Carrillo Cuenca</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -128,8 +178,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Carlos Beltrán Jaramillo</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Carlos Beltrán Jaramillo</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -142,8 +202,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Felipe Gabino Macedo</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Felipe Gabino Macedo</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -156,8 +226,18 @@
               alt="..."
             />
           </div>
-          <div class="card-header card-header-nosotros">
-            <b>Ramón Cuevas Martínez</b><br />subtitle
+          <div class="card-header card-header-nosotros ext-box">
+            <div class="int-box">
+              <b>Ramón Cuevas Martínez</b>
+              <br />
+              Evaluador
+              <br />
+              <ul>
+                <li>Metodología del marco lógico</li>
+                <li>Presupuesto basado en resultados</li>
+                <li>Evaluación de programas y fondos federales</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
