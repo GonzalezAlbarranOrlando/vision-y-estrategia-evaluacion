@@ -79,7 +79,7 @@
         <b>Elemento 4 de 4</b><br />Comunicar los Resultados
       </div>
     </div>
-
+    <br />
     <!--download text-->
     <div class="mb-3" style="text-align: center">
       <a

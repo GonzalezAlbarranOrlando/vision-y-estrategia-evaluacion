@@ -28,6 +28,10 @@
         >
           <div class="accordion-body">
             <!--Table -->
+            <div class="col-12 table-title">
+              Nombre del taller: Implantación del Sistema de Gestión para
+              Resultados en el Sector Público
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -180,6 +184,10 @@
         >
           <div class="accordion-body">
             <!--Table Módulo I -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo I. Planeación de un Sistema de
+              Administración por Resultados
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -286,6 +294,10 @@
         >
           <div class="accordion-body">
             <!--Table Módulo II -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo II. Programación en la gestión de
+              proyectos
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -376,6 +388,10 @@
         >
           <div class="accordion-body">
             <!--Table Módulo III -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo III. Presupuesto basado en Resultados
+              (PbR)
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -467,6 +483,10 @@
         >
           <div class="accordion-body">
             <!--Table Módulo IV -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo IV. Diseño de indicadores estratégicos y
+              de gestión
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -561,6 +581,9 @@
         >
           <div class="accordion-body">
             <!--Table Módulo V -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo V Monitoreo y control
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -651,6 +674,9 @@
         >
           <div class="accordion-body">
             <!--Table Módulo VI -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo VI. Gestión de la evidencia
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -742,6 +768,9 @@
         >
           <div class="accordion-body">
             <!--Table Módulo VII -->
+            <div class="col-12 table-title">
+              Nombre del curso: Módulo VII Comunicación de resultados
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>

@@ -14,7 +14,7 @@
             aria-expanded="true"
             aria-controls="collapseOne"
           >
-            <b>Nombre del curso: Inducción al Programa Anual de Evaluación.</b>
+            <b>Nombre del curso: Inducción al Programa Anual de Evaluación</b>
           </button>
         </h2>
         <div
@@ -26,6 +26,9 @@
           <div class="accordion-body">
             <!--Table 1-->
             <div class="col-12 table-white">
+              <div class="col-12 table-title">
+                Nombre del curso: Inducción al Programa Anual de Evaluación
+              </div>
               <b>Objetivo:</b>
               <ul>
                 <li>
@@ -132,7 +135,9 @@
         >
           <div class="accordion-body">
             <!--Table 2-->
-
+            <div class="col-12 table-title">
+              Nombre del Taller: Elaboración de Términos de Referencia
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -217,7 +222,10 @@
         >
           <div class="accordion-body">
             <!--Table 3-->
-
+            <div class="col-12 table-title">
+              Nombre del Taller: Diseño de Convenio para la Mejora de Resultados
+              Gubernamentales
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -322,7 +330,10 @@
         >
           <div class="accordion-body">
             <!--Table 4-->
-
+            <div class="col-12 table-title">
+              Nombre del Curso: Desarrollo integral del Programa Anual de
+              Evaluación
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>
@@ -497,7 +508,9 @@
         >
           <div class="accordion-body">
             <!--Table 5-->
-
+            <div class="col-12 table-title">
+              Nombre del Curso: Elaboración de informes de resultados
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <ul>

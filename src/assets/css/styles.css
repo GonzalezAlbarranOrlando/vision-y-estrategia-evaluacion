@@ -80,10 +80,11 @@ i.download-text {
 }
 
 select.form-select {
-    text-align: center;
+    text-align: left;
     color: #5f676f;
     background-color: #f4f5f5;
-    font-size: 20px;
+    font-size: 25px;
+    word-wrap: break-word;
 }
 
 /*headings and texts end*/

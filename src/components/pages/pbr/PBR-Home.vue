@@ -16,6 +16,11 @@
       <option value="PreguntasFrecuentes">Preguntas Frecuentes</option>
       <option value="Capacitacion">Capacitación</option>
       <option value="Transparencia">Transparencia</option>
+      <option
+        value="Taller de Gestión Integral del Presupuesto basado en Resultados"
+      >
+        Taller de Gestión Integral del Presupuesto basado en Resultados
+      </option>
     </select>
     <!--
         <span>Selected: {{ selected_pbr }}</span>
@@ -34,6 +39,15 @@
   <div class="my-5" v-if="selected_pbr === 'Transparencia'">
     <Transparencia />
   </div>
+  <div
+    class="my-5"
+    v-if="
+      selected_pbr ===
+      'Taller de Gestión Integral del Presupuesto basado en Resultados'
+    "
+  >
+    <TallerdeGestiónIntegraldelPresupuestobasadoenResultados />
+  </div>
 </template>
   
 <script>
@@ -41,6 +55,7 @@ import EnQueConsiste from "./EnQueConsiste.vue";
 import PreguntasFrecuentes from "./PreguntasFrecuentes.vue";
 import Capacitacion from "./Capacitacion.vue";
 import Transparencia from "./Transparencia.vue";
+import TallerdeGestiónIntegraldelPresupuestobasadoenResultados from "./capacitacion/Taller de Gestión Integral del Presupuesto basado en Resultados.vue";
 export default {
   name: "PBR-Home",
   components: {
@@ -48,6 +63,7 @@ export default {
     PreguntasFrecuentes,
     Capacitacion,
     Transparencia,
+    TallerdeGestiónIntegraldelPresupuestobasadoenResultados,
   },
   data() {
     return {

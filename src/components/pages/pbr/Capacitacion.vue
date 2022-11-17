@@ -26,6 +26,10 @@
           data-bs-parent="#accordionPbrCapacitacion"
         >
           <div class="accordion-body">
+            <div class="col-12 table-title">
+              Taller de Gestión Integral del Presupuesto basado en Resultados
+              (PbR), para incorporarlo al Ciclo Presupuestario
+            </div>
             <div class="col-12 table-white">
               <b>Objetivo:</b>
               <br />
