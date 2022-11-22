@@ -1,43 +1,82 @@
 <template>
   <div class="container">
+    <!--sidenav -->
+    <div
+      id="mySidenav"
+      class="sidenav"
+      style="width: 300px"
+      v-if="boolean_sidenav"
+    >
+      <button
+        type="button"
+        class="btn-close closebtn"
+        aria-label="Close"
+        v-on:click="boolean_sidenav = false"
+      ></button>
+      <div class="sidenav-blue">
+        <b>Programa Anual de Evaluación (PAE)</b>
+      </div>
+      <button class="text-truncate" v-on:click="selected_pae = 'EnQueConsiste'">
+        En que consiste
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="selected_pae = 'PreguntasFrecuentes'"
+      >
+        Preguntas frecuentes
+      </button>
+      <button class="text-truncate" v-on:click="selected_pae = 'Consultoría'">
+        Consultoría
+      </button>
+      <div class="sidenav-blue"><b>Capacitación:</b></div>
+      <button
+        class="text-truncate"
+        v-on:click="selected_pae = 'Inducción al Programa Anual de Evaluación'"
+      >
+        Inducción al Programa Anual de Evaluación
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="selected_pae = 'Elaboración de Términos de Referencia'"
+      >
+        Elaboración de Términos de Referencia
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pae =
+            'Diseño de Convenio para la Mejora de Resultados Gubernamentales'
+        "
+      >
+        Diseño de Convenio para la Mejora de Resultados Gubernamentales
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pae = 'Desarrollo integral del Programa Anual de Evaluación'
+        "
+      >
+        Desarrollo integral del Programa Anual de Evaluación
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="selected_pae = 'Elaboración de informes de resultados'"
+      >
+        Elaboración de informes de resultados
+      </button>
+    </div>
+    <!--sidenav end-->
     <!--Animated title-->
     <div class="animate-div">
       <p class="animate__animated animate__slideInDown">
         Programa Anual de Evaluación (PAE)
       </p>
     </div>
-    <!--Select option-->
-    <select
-      class="form-select form-select-lg"
-      aria-label=".form-select-lg example"
-      v-model="selected_pae"
+    <span
+      style="font-size: 30px; cursor: pointer; color: gray; font-weight: bold"
+      v-on:click="boolean_sidenav = true"
+      >&#9776; Menú de opciones</span
     >
-      <option selected value="EnQueConsiste">En que consiste</option>
-      <option value="PreguntasFrecuentes">Preguntas frecuentes</option>
-      <option value="Consultoria">Consultoría</option>
-      <option value="Capacitacion">Capacitación</option>
-      <option value="Inducción al Programa Anual de Evaluación">
-        Inducción al Programa Anual de Evaluación
-      </option>
-      <option value="Elaboración de Términos de Referencia">
-        Elaboración de Términos de Referencia
-      </option>
-      <option
-        value="Diseño de Convenio para la Mejora de Resultados Gubernamentales"
-      >
-        Diseño de Convenio para la Mejora de Resultados Gubernamentales
-      </option>
-      <option value="Desarrollo integral del Programa Anual de Evaluación">
-        Desarrollo integral del Programa Anual de Evaluación
-      </option>
-      <option value="Elaboración de informes de resultados">
-        Elaboración de informes de resultados
-      </option>
-    </select>
-    <!--
-      <span>Selected: {{ selected_pae }}</span>
-    -->
-    <!--Select option end-->
   </div>
   <div class="my-5" v-if="selected_pae === 'EnQueConsiste'">
     <EnQueConsiste />
@@ -45,11 +84,8 @@
   <div class="my-5" v-if="selected_pae === 'PreguntasFrecuentes'">
     <PreguntasFrecuentes />
   </div>
-  <div class="my-5" v-if="selected_pae === 'Consultoria'">
+  <div class="my-5" v-if="selected_pae === 'Consultoría'">
     <Consultoria />
-  </div>
-  <div class="my-5" v-if="selected_pae === 'Capacitacion'">
-    <Capacitacion />
   </div>
   <div
     class="my-5"
@@ -92,7 +128,6 @@
 import EnQueConsiste from "./EnQueConsiste.vue";
 import PreguntasFrecuentes from "./PreguntasFrecuentes.vue";
 import Consultoria from "./Consultoria.vue";
-import Capacitacion from "./Capacitacion.vue";
 import InducciónalProgramaAnualdeEvaluación from "./capacitacion/Inducción al Programa Anual de Evaluación.vue";
 import ElaboracióndeTérminosdeReferencia from "./capacitacion/Elaboración de Términos de Referencia.vue";
 import DiseñodeConvenioparalaMejoradeResultadosGubernamentales from "./capacitacion/Diseño de Convenio para la Mejora de Resultados Gubernamentales.vue";
@@ -104,7 +139,6 @@ export default {
     EnQueConsiste,
     PreguntasFrecuentes,
     Consultoria,
-    Capacitacion,
     InducciónalProgramaAnualdeEvaluación,
     ElaboracióndeTérminosdeReferencia,
     DiseñodeConvenioparalaMejoradeResultadosGubernamentales,
@@ -114,6 +148,7 @@ export default {
   data() {
     return {
       selected_pae: "EnQueConsiste",
+      boolean_sidenav: true,
     };
   },
 };

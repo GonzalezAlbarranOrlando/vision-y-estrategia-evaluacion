@@ -196,9 +196,9 @@ div.card-header-nosotros {
 }
 
 #equipo .card-header-nosotros {
-    min-height: 250px;
+    min-height: 230px;
     width: 100%;
-    padding: 25px 0;
+    padding: 0 0 0 0;
 }
 
 div.card-body-nosotros {
@@ -282,3 +282,71 @@ button.btn {
 div.ext-box { display: table; width:100%;}
 div.int-box { display: table-cell; vertical-align: middle; }
 /* vertical center end*/
+
+ul.a {
+    list-style-type: circle;
+  }
+
+
+  /*sidenav*/
+
+.sidenav {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #eeeeee;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    word-wrap: break-word;
+  }
+  
+  .sidenav a,
+  .sidenav button,
+  .sidenav b {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #444444;
+    display: block;
+    transition: 0.3s;
+    word-wrap: break-word;
+    border: none;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .sidenav a:hover,
+  .sidenav button:hover {
+    color: black;
+    background-color: #e4e4e4;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    width: 50px;
+    text-align: end;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {
+      padding-top: 15px;
+    }
+    .sidenav a {
+      font-size: 18px;
+    }
+  }
+  
+  .sidenav-blue {
+    background-color: #a6c4ce;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    word-wrap: break-word;
+  }
+/*sidenav end*/

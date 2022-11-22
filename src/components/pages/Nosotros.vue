@@ -64,7 +64,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -88,7 +88,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -112,7 +112,7 @@
               <br />
               Evaluadora
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -136,7 +136,7 @@
               <br />
               Evaluadora
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -160,7 +160,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -184,7 +184,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -208,7 +208,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>
@@ -232,7 +232,7 @@
               <br />
               Evaluador
               <br />
-              <ul>
+              <ul class="a">
                 <li>Metodología del marco lógico</li>
                 <li>Presupuesto basado en resultados</li>
                 <li>Evaluación de programas y fondos federales</li>

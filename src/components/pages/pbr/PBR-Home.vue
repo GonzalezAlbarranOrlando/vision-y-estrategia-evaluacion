@@ -1,40 +1,62 @@
 <template>
   <div class="container">
+    <!--sidenav -->
+    <div
+      id="mySidenav"
+      class="sidenav"
+      style="width: 300px"
+      v-if="boolean_sidenav"
+    >
+      <button
+        type="button"
+        class="btn-close closebtn"
+        aria-label="Close"
+        v-on:click="boolean_sidenav = false"
+      ></button>
+      <div class="sidenav-blue">
+        <b>Presupuesto Basado en Resultados (PbR)</b>
+      </div>
+      <button class="text-truncate" v-on:click="selected_pbr = 'EnQueConsiste'">
+        En que consiste
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="selected_pbr = 'PreguntasFrecuentes'"
+      >
+        Preguntas Frecuentes
+      </button>
+      <button class="text-truncate" v-on:click="selected_pbr = 'Transparencia'">
+        Transparencia
+      </button>
+      <div class="sidenav-blue"><b>Capacitación:</b></div>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pbr =
+            'Taller de Gestión Integral del Presupuesto basado en Resultados'
+        "
+      >
+        Taller de Gestión Integral del Presupuesto basado en Resultados
+      </button>
+    </div>
+    <!--sidenav end-->
     <!--Animated title-->
     <div class="animate-div">
       <p class="animate__animated animate__slideInDown">
         Presupuesto Basado en Resultados (PbR)
       </p>
     </div>
-    <!--Select option-->
-    <select
-      class="form-select form-select-lg"
-      aria-label=".form-select-lg example"
-      v-model="selected_pbr"
+    <span
+      style="font-size: 30px; cursor: pointer; color: gray; font-weight: bold"
+      v-on:click="boolean_sidenav = true"
+      >&#9776; Menú de opciones</span
     >
-      <option selected value="EnQueConsiste">En que consiste</option>
-      <option value="PreguntasFrecuentes">Preguntas Frecuentes</option>
-      <option value="Capacitacion">Capacitación</option>
-      <option value="Transparencia">Transparencia</option>
-      <option
-        value="Taller de Gestión Integral del Presupuesto basado en Resultados"
-      >
-        Taller de Gestión Integral del Presupuesto basado en Resultados
-      </option>
-    </select>
-    <!--
-        <span>Selected: {{ selected_pbr }}</span>
-      -->
-    <!--Select option end-->
   </div>
   <div class="my-5" v-if="selected_pbr === 'EnQueConsiste'">
     <EnQueConsiste />
   </div>
   <div class="my-5" v-if="selected_pbr === 'PreguntasFrecuentes'">
     <PreguntasFrecuentes />
-  </div>
-  <div class="my-5" v-if="selected_pbr === 'Capacitacion'">
-    <Capacitacion />
   </div>
   <div class="my-5" v-if="selected_pbr === 'Transparencia'">
     <Transparencia />
@@ -53,7 +75,6 @@
 <script>
 import EnQueConsiste from "./EnQueConsiste.vue";
 import PreguntasFrecuentes from "./PreguntasFrecuentes.vue";
-import Capacitacion from "./Capacitacion.vue";
 import Transparencia from "./Transparencia.vue";
 import TallerdeGestiónIntegraldelPresupuestobasadoenResultados from "./capacitacion/Taller de Gestión Integral del Presupuesto basado en Resultados.vue";
 export default {
@@ -61,13 +82,13 @@ export default {
   components: {
     EnQueConsiste,
     PreguntasFrecuentes,
-    Capacitacion,
     Transparencia,
     TallerdeGestiónIntegraldelPresupuestobasadoenResultados,
   },
   data() {
     return {
       selected_pbr: "EnQueConsiste",
+      boolean_sidenav: true,
     };
   },
 };
