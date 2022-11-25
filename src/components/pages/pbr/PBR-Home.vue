@@ -88,7 +88,7 @@ export default {
   data() {
     return {
       selected_pbr: "EnQueConsiste",
-      boolean_sidenav: true,
+      boolean_sidenav: false,
     };
   },
 };

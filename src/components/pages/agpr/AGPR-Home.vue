@@ -207,7 +207,7 @@ export default {
   data() {
     return {
       selected_agpr: "EnQueConsiste",
-      boolean_sidenav: true,
+      boolean_sidenav: false,
     };
   },
 };
