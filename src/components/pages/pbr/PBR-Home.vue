@@ -16,16 +16,31 @@
       <div class="sidenav-blue">
         <b>Presupuesto Basado en Resultados (PbR)</b>
       </div>
-      <button class="text-truncate" v-on:click="selected_pbr = 'EnQueConsiste'">
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pbr = 'EnQueConsiste';
+          boolean_sidenav = false;
+        "
+      >
         En que consiste
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_pbr = 'PreguntasFrecuentes'"
+        v-on:click="
+          selected_pbr = 'PreguntasFrecuentes';
+          boolean_sidenav = false;
+        "
       >
         Preguntas Frecuentes
       </button>
-      <button class="text-truncate" v-on:click="selected_pbr = 'Transparencia'">
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pbr = 'Transparencia';
+          boolean_sidenav = false;
+        "
+      >
         Transparencia
       </button>
       <div class="sidenav-blue"><b>Capacitación:</b></div>
@@ -33,7 +48,8 @@
         class="text-truncate"
         v-on:click="
           selected_pbr =
-            'Taller de Gestión Integral del Presupuesto basado en Resultados'
+            'Taller de Gestión Integral del Presupuesto basado en Resultados';
+          boolean_sidenav = false;
         "
       >
         Taller de Gestión Integral del Presupuesto basado en Resultados

@@ -16,28 +16,49 @@
       <div class="sidenav-blue">
         <b>Programa Anual de Evaluación (PAE)</b>
       </div>
-      <button class="text-truncate" v-on:click="selected_pae = 'EnQueConsiste'">
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pae = 'EnQueConsiste';
+          boolean_sidenav = false;
+        "
+      >
         En que consiste
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_pae = 'PreguntasFrecuentes'"
+        v-on:click="
+          selected_pae = 'PreguntasFrecuentes';
+          boolean_sidenav = false;
+        "
       >
         Preguntas frecuentes
       </button>
-      <button class="text-truncate" v-on:click="selected_pae = 'Consultoría'">
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pae = 'Consultoría';
+          boolean_sidenav = false;
+        "
+      >
         Consultoría
       </button>
       <div class="sidenav-blue"><b>Capacitación:</b></div>
       <button
         class="text-truncate"
-        v-on:click="selected_pae = 'Inducción al Programa Anual de Evaluación'"
+        v-on:click="
+          selected_pae = 'Inducción al Programa Anual de Evaluación';
+          boolean_sidenav = false;
+        "
       >
         Inducción al Programa Anual de Evaluación
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_pae = 'Elaboración de Términos de Referencia'"
+        v-on:click="
+          selected_pae = 'Elaboración de Términos de Referencia';
+          boolean_sidenav = false;
+        "
       >
         Elaboración de Términos de Referencia
       </button>
@@ -45,7 +66,8 @@
         class="text-truncate"
         v-on:click="
           selected_pae =
-            'Diseño de Convenio para la Mejora de Resultados Gubernamentales'
+            'Diseño de Convenio para la Mejora de Resultados Gubernamentales';
+          boolean_sidenav = false;
         "
       >
         Diseño de Convenio para la Mejora de Resultados Gubernamentales
@@ -53,14 +75,18 @@
       <button
         class="text-truncate"
         v-on:click="
-          selected_pae = 'Desarrollo integral del Programa Anual de Evaluación'
+          selected_pae = 'Desarrollo integral del Programa Anual de Evaluación';
+          boolean_sidenav = false;
         "
       >
         Desarrollo integral del Programa Anual de Evaluación
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_pae = 'Elaboración de informes de resultados'"
+        v-on:click="
+          selected_pae = 'Elaboración de informes de resultados';
+          boolean_sidenav = false;
+        "
       >
         Elaboración de informes de resultados
       </button>

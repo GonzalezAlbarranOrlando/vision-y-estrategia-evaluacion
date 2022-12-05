@@ -18,19 +18,28 @@
       </div>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'EnQueConsiste'"
+        v-on:click="
+          selected_agpr = 'EnQueConsiste';
+          boolean_sidenav = false;
+        "
       >
         En que consiste
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'InformacionGeneral'"
+        v-on:click="
+          selected_agpr = 'InformacionGeneral';
+          boolean_sidenav = false;
+        "
       >
         Información general
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'ProgramaDeCertificacion'"
+        v-on:click="
+          selected_agpr = 'ProgramaDeCertificacion';
+          boolean_sidenav = false;
+        "
       >
         Programa de certificación
       </button>
@@ -39,7 +48,8 @@
         class="text-truncate"
         v-on:click="
           selected_agpr =
-            'Implantación del Sistema de Gestión para Resultados en el Sector Público'
+            'Implantación del Sistema de Gestión para Resultados en el Sector Público';
+          boolean_sidenav = false;
         "
       >
         Implantación del Sistema de Gestión para Resultados en el Sector Público
@@ -48,7 +58,8 @@
         class="text-truncate"
         v-on:click="
           selected_agpr =
-            'Módulo I. Planeación de un Sistema de Administración por Resultados'
+            'Módulo I. Planeación de un Sistema de Administración por Resultados';
+          boolean_sidenav = false;
         "
       >
         Módulo I. Planeación de un Sistema de Administración por Resultados
@@ -56,7 +67,8 @@
       <button
         class="text-truncate"
         v-on:click="
-          selected_agpr = 'Módulo II. Programación en la gestión de proyectos'
+          selected_agpr = 'Módulo II. Programación en la gestión de proyectos';
+          boolean_sidenav = false;
         "
       >
         Módulo II. Programación en la gestión de proyectos
@@ -64,7 +76,8 @@
       <button
         class="text-truncate"
         v-on:click="
-          selected_agpr = 'Módulo III. Presupuesto basado en Resultados'
+          selected_agpr = 'Módulo III. Presupuesto basado en Resultados';
+          boolean_sidenav = false;
         "
       >
         Módulo III. Presupuesto basado en Resultados (PbR)
@@ -73,26 +86,36 @@
         class="text-truncate"
         v-on:click="
           selected_agpr =
-            'Módulo IV. Diseño de indicadores estratégicos y de gestión'
+            'Módulo IV. Diseño de indicadores estratégicos y de gestión';
+          boolean_sidenav = false;
         "
       >
         Módulo IV. Diseño de indicadores estratégicos y de gestión
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'Módulo V. Monitoreo y control'"
+        v-on:click="
+          selected_agpr = 'Módulo V. Monitoreo y control';
+          boolean_sidenav = false;
+        "
       >
         Módulo V. Monitoreo y control
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'Módulo VI. Gestión de la evidencia'"
+        v-on:click="
+          selected_agpr = 'Módulo VI. Gestión de la evidencia';
+          boolean_sidenav = false;
+        "
       >
         Módulo VI. Gestión de la evidencia
       </button>
       <button
         class="text-truncate"
-        v-on:click="selected_agpr = 'Módulo VII. Comunicación de resultados'"
+        v-on:click="
+          selected_agpr = 'Módulo VII. Comunicación de resultados';
+          boolean_sidenav = false;
+        "
       >
         Módulo VII. Comunicación de resultados
       </button>
