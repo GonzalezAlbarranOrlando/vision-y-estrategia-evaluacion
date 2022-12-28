@@ -73,7 +73,7 @@
 </template>
 
 <script>
-import emailjs from "emailjs-com";
+//import emailjs from "emailjs-com";
 export default {
   name: "ContactoPage",
   data() {
@@ -99,7 +99,7 @@ export default {
         alert("Correo enviado");
       }
     },
-    sendEmail(e) {
+    /*sendEmail(e) {
       try {
         emailjs.sendForm(
           "service_982uzkf",
@@ -126,7 +126,7 @@ export default {
       this.email = "";
       this.phoneNumber = "";
       this.message = "";
-    },
+    },*/
     myValidation() {
       // required validation
       if (
