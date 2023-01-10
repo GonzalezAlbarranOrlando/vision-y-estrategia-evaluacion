@@ -166,7 +166,7 @@
                 programas presupuestarios.
               </p>
               <p>
-                El IIEPM, desarrollado por Gobernova y reconocido como una
+                El IIEPM, desarrollado por Visión y Estreategia y reconocido como una
                 práctica exitosa por CONEVAL, plantea que los programas en la
                 administración pública municipal, las políticas públicas y los
                 fondos de aportación federal,
@@ -196,7 +196,7 @@
                 evaluación, lo que equivale a total opacidad.
               </p>
               <p>
-                Gobernova entregó reconocimiento a los 17 mejores municipios.
+                Visión y Estreategia entregó reconocimiento a los 17 mejores municipios.
                 Con puntuación perfecta y calificación de 10: los municipios de
                 Tultitlán, Tlalmanalco, Malinalco, Zinacantepec y Nicolás
                 Romero. Con calificación de 9.5: Chalco, San Felipe del
