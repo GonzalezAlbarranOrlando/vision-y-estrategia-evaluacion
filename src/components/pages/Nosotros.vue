@@ -9,7 +9,7 @@
         <!--card MISIÓN-->
         <div class="card">
           <div class="card-header card-header-nosotros">
-            <h5 class="card-title">MISIÓN</h5>
+            <h5 class="card-title">Misión</h5>
           </div>
           <div class="card-body card-body-nosotros">
             <p class="card-text">
@@ -29,7 +29,7 @@
         <!--card VISIÓN-->
         <div class="card">
           <div class="card-header card-header-nosotros">
-            <h5 class="card-title">VISIÓN</h5>
+            <h5 class="card-title">Visión</h5>
           </div>
           <div class="card-body card-body-nosotros">
             <p class="card-text">

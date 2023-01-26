@@ -78,7 +78,7 @@
       <b>Horas de duración:</b>7 días (14 horas).
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b>Del 4 al 8, 11 y 12 de abril de 2022.
+      <b>Fecha de realización: </b>Del 27 al 31 de marzo, 3 y 4 de abril de 2023
     </div>
     <!--Table 1 end-->
   </div>

@@ -43,6 +43,15 @@
       >
         Programa de certificación
       </button>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_agpr = 'Transparencia';
+          boolean_sidenav = false;
+        "
+      >
+        Transparencia
+      </button>
       <div class="sidenav-blue"><b>Capacitación:</b></div>
       <button
         class="text-truncate"
@@ -142,6 +151,9 @@
   <div class="my-5" v-if="selected_agpr === 'ProgramaDeCertificacion'">
     <ProgramaDeCertificacion />
   </div>
+  <div class="my-5" v-if="selected_agpr === 'Transparencia'">
+    <Transparencia />
+  </div>
   <div
     class="my-5"
     v-if="
@@ -204,6 +216,7 @@
 import EnQueConsiste from "./EnQueConsiste.vue";
 import InformacionGeneral from "./InformacionGeneral.vue";
 import ProgramaDeCertificacion from "./ProgramaDeCertificacion.vue";
+import Transparencia from "./Transparencia.vue";
 import Implantaciondelsistemadegestionpararesultadosenelsectorpublico from "./capacitacion/Implantación del Sistema de Gestión para Resultados en el Sector Público.vue";
 import MóduloIPlaneacióndeunSistemadeAdministraciónporResultados from "./capacitacion/Módulo I Planeación de un Sistema de Administración por Resultados.vue";
 import MóduloIIProgramaciónenlagestióndeproyectos from "./capacitacion/Módulo II Programación en la gestión de proyectos.vue";
@@ -218,6 +231,7 @@ export default {
     EnQueConsiste,
     InformacionGeneral,
     ProgramaDeCertificacion,
+    Transparencia,
     Implantaciondelsistemadegestionpararesultadosenelsectorpublico,
     MóduloIPlaneacióndeunSistemadeAdministraciónporResultados,
     MóduloIIProgramaciónenlagestióndeproyectos,
