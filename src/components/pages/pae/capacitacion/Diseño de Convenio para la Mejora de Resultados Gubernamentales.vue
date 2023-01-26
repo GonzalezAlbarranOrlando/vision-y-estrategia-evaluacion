@@ -71,7 +71,7 @@
       <b>Horas de duración:</b>1 día (5 horas)
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b>27 de mayo de 2022.
+      <b>Fecha de realización: </b>29 de mayo de 2023
     </div>
     <!--Table 3 end-->
   </div>

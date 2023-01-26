@@ -63,7 +63,7 @@
       <b>Horas de duración:</b> 2 días 6 horas (3 por día)
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b> 20 y 21 de abril de 2022.
+      <b>Fecha de realización: </b>20 y 21 de abril de 2023
     </div>
     <!--Table Módulo VII end-->
   </div>

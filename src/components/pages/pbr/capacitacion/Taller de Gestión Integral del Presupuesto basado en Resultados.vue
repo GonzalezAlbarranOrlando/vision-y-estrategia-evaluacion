@@ -180,7 +180,7 @@
     </div>
     <div class="col-12 table-white"><b>Horas de duración:</b> 20 horas.</div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b> 22, 23, 24 y 25 de noviembre de 2022
+      <b>Fecha de realización: </b>Del 21 al 24 de noviembre de 2023
     </div>
   </div>
 </template>

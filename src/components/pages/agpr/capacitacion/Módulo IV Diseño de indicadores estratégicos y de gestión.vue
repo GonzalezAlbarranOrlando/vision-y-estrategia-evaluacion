@@ -69,7 +69,7 @@
       <b>Horas de duración:</b> 1 día (3 horas)
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b> 11 de abril de 2022.
+      <b>Fecha de realización: </b>11 de abril de 2023
     </div>
     <!--Table Módulo IV end-->
   </div>

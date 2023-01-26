@@ -43,6 +43,15 @@
       >
         Consultoría
       </button>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_pae = 'Transparencia';
+          boolean_sidenav = false;
+        "
+      >
+        Transparencia
+      </button>
       <div class="sidenav-blue"><b>Capacitación:</b></div>
       <button
         class="text-truncate"
@@ -113,6 +122,9 @@
   <div class="my-5" v-if="selected_pae === 'Consultoría'">
     <Consultoria />
   </div>
+  <div class="my-5" v-if="selected_pae === 'Transparencia'">
+    <Transparencia />
+  </div>
   <div
     class="my-5"
     v-if="selected_pae === 'Inducción al Programa Anual de Evaluación'"
@@ -154,6 +166,7 @@
 import EnQueConsiste from "./EnQueConsiste.vue";
 import PreguntasFrecuentes from "./PreguntasFrecuentes.vue";
 import Consultoria from "./Consultoria.vue";
+import Transparencia from "./Transparencia.vue";
 import InducciónalProgramaAnualdeEvaluación from "./capacitacion/Inducción al Programa Anual de Evaluación.vue";
 import ElaboracióndeTérminosdeReferencia from "./capacitacion/Elaboración de Términos de Referencia.vue";
 import DiseñodeConvenioparalaMejoradeResultadosGubernamentales from "./capacitacion/Diseño de Convenio para la Mejora de Resultados Gubernamentales.vue";
@@ -165,6 +178,7 @@ export default {
     EnQueConsiste,
     PreguntasFrecuentes,
     Consultoria,
+    Transparencia,
     InducciónalProgramaAnualdeEvaluación,
     ElaboracióndeTérminosdeReferencia,
     DiseñodeConvenioparalaMejoradeResultadosGubernamentales,
