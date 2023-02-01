@@ -64,7 +64,7 @@
       <b>Horas de duración:</b> 1 días (3 horas)
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b>12 de abril de 2023
+      <b>Fecha de realización: </b>10 de mayo de 2023
     </div>
     <!--Table Módulo V end-->
   </div>

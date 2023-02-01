@@ -119,10 +119,11 @@
       </ul>
     </div>
     <div class="col-12 table-white">
-      <b>Horas de duración:</b>8 días (24 horas)
+      <b>Horas de duración:</b>11 días (36 horas)
     </div>
     <div class="col-12 table-blue">
-      <b>Fecha de realización: </b>Del 9, 11, 12 de mayo y del 15 al 19 de mayo de 2023
+      <b>Fecha de realización: </b>Del 2 al 5, del 8 al 12 y del 15 al 16 de
+      mayo de 2023
     </div>
     <!--Table end-->
   </div>

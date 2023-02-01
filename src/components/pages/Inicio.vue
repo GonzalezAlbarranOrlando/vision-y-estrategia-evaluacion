@@ -32,15 +32,16 @@
           data-bs-slide-to="3"
           aria-label="Slide 4"
         ></button>
-        <button
-          type="button"
-          data-bs-target="#carouselExampleIndicators"
-          data-bs-slide-to="4"
-          aria-label="Slide 5"
-        ></button>
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="3000">
+          <img
+            src="@/assets/img/carrusel/carrusel-centro-de-trabajo-certificado.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">
           <router-link to="/pae-calendario">
             <img
               src="@/assets/img/carrusel/carrusel-calendario-pae.jpg"
@@ -66,20 +67,6 @@
               alt="..."
             />
           </router-link>
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img
-              src="@/assets/img/carrusel/carrusel-Centro-certificado-y-agente.jpg"
-              class="d-block w-100"
-              alt="..."
-            />
-        </div>
-        <div class="carousel-item" data-bs-interval="3000">
-            <img
-              src="@/assets/img/carrusel/carrusel-Centro-certificado.jpg"
-              class="d-block w-100"
-              alt="..."
-            />
         </div>
       </div>
       <button

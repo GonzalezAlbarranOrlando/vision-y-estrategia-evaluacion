@@ -6,7 +6,7 @@
         <!--card transparencia-->
         <div class="card">
           <img
-            src="@/assets/img/transparencia/transparencia1.jpeg"
+            src="@/assets/img/transparencia/transparencia1.jpg"
             height="200px"
             alt="..."
           />
@@ -27,7 +27,7 @@
         <!--card transparencia-->
         <div class="card">
           <img
-            src="@/assets/img/transparencia/transparencia2.jpeg"
+            src="@/assets/img/transparencia/transparencia2.jpg"
             height="200px"
             alt="..."
           />
@@ -50,7 +50,7 @@
         <!--card transparencia-->
         <div class="card">
           <img
-            src="@/assets/img/transparencia/transparencia3.jpeg"
+            src="@/assets/img/transparencia/transparencia3.jpg"
             height="200px"
             alt="..."
           />
@@ -62,7 +62,7 @@
                   Puedes descargar el contrato de prestación de servicios
                   <a
                     class="download-here"
-                    href="/pdf/example.pdf"
+                    href="/docx/Contrato de prestación de servicios PAE.docx"
                     target="_blank"
                   >
                     aquí </a
@@ -78,7 +78,7 @@
         <!--card transparencia-->
         <div class="card">
           <img
-            src="@/assets/img/transparencia/transparencia4.jpeg"
+            src="@/assets/img/transparencia/transparencia4.jpg"
             height="200px"
             alt="..."
           />
@@ -106,7 +106,7 @@
         <!--card transparencia-->
         <div class="card">
           <img
-            src="@/assets/img/transparencia/transparencia5.jpeg"
+            src="@/assets/img/transparencia/transparencia5.jpg"
             height="200px"
             alt="..."
           />
@@ -118,7 +118,7 @@
                   Puedes descargar el procedimiento de quejas
                   <a
                     class="download-here"
-                    href="/pdf/example.pdf"
+                    href="/docx/procedimiento de quejas PAE visión.docx"
                     target="_blank"
                   >
                     aquí </a
