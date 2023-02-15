@@ -7,7 +7,6 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Inicio from './components/pages/Inicio.vue'
 import Contacto from './components/pages/Contacto.vue'
 import Nosotros from './components/pages/Nosotros.vue'
-import Boletines from './components/pages/Boletines.vue'
 import Template from '@/components/pages/Template.vue'
 import PAEcalendario from '@/components/pages/pae/Calendario.vue'
 import PAEhome from '@/components/pages/pae/PAE-Home.vue'
@@ -36,14 +35,13 @@ const routes = [
     { path: '/', component: Inicio },
     { path: '/contacto', component: Contacto },
     { path: '/nosotros', component: Nosotros },
-    { path: '/boletines', component: Boletines },
     { path: '/template', component: Template },
     { path: '/pae-calendario', component: PAEcalendario },
     { path: '/pae', component: PAEhome },
     { path: '/agpr', component: AGPRhome },
     { path: '/pbr', component: PBRhome },
 
-    { path: '/boletinesTEST', component: BoletinesHome },
+    { path: '/boletines', component: BoletinesHome },
     { path: '/boletines/Administraci%C3%B3n_P%C3%BAblica_para_Resultados', component: Administración_Pública_para_Resultados },
     { path: '/boletines/Medici%C3%B3n_de_la_calidad_del_gasto_municipal_en_Edomex', component: Medición_de_la_calidad_del_gasto_municipal_en_Edomex },
     { path: '/boletines/El_valor_p%C3%BAblico_en_las_organizaciones_gubernamentales_del_siglo_XXI', component: El_valor_público_en_las_organizaciones_gubernamentales_del_siglo_XXI },
