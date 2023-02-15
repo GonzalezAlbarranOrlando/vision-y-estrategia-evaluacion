@@ -48,11 +48,22 @@ a.dropdown-toggle::after {
 
 h1.my-h1 {
     color: #5f676f;
+    text-align: center;
     margin-bottom: 50px;
 }
 
 h2.my-h2 {
     color: #68bccc;
+}
+
+h3.my-h3 {
+    color: #5f676f;
+    text-align: center;
+}
+
+h5.my-h5 {
+    color: #5f676f;
+    text-align: center;
 }
 
 div.general-text {
@@ -174,6 +185,11 @@ a.download-footer{
     color: white;
 }
 
+.breadcrumb-item a{
+    color: #68bccc;
+    text-decoration: none;
+}
+
 /*footer end*/
 
 /*my shadow*/
@@ -228,6 +244,24 @@ div.card-body-equipo {
 }
 
 /*cards end*/
+
+/*boletines*/
+.crop-text-4{
+    text-overflow:ellipsis;
+    overflow:hidden;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    text-align: justify;
+  }
+#boletines h5{
+    font-weight: bold;
+}
+#boletines img{
+    margin-bottom: 1em;
+}
+/*boletines end*/
 
 /*form*/
 .error {
