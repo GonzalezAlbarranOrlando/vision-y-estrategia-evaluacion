@@ -1,6 +1,6 @@
 
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table 5-->
     <div class="col-12 table-title">
       Nombre del Curso: Elaboración de informes de resultados

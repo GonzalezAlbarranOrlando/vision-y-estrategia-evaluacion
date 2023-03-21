@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h1 class="my-h1">Programa de Certificación</h1>
     <div class="center">
       <img

@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table -->
     <div class="col-12 table-title">
       Nombre del taller: Implantación del Sistema de Gestión para Resultados en

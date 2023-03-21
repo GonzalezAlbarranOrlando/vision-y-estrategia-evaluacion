@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table 2-->
     <div class="col-12 table-title">
       Nombre del Taller: Elaboración de Términos de Referencia

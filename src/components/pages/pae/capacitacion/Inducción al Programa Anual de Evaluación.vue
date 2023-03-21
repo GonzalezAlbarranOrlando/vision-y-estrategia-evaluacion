@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table 1-->
     <div class="col-12 table-white">
       <div class="col-12 table-title">

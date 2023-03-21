@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h1 class="my-h1">Consultoría</h1>
     <div class="general-text">
       Los trabajos que realizamos se fundamentan en el artículo 79 de la Ley

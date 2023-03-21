@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table Módulo VII -->
     <div class="col-12 table-title">
       Nombre del curso: Módulo VII Comunicación de resultados

@@ -1,6 +1,6 @@
 
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table 4-->
     <div class="col-12 table-title">
       Nombre del Curso: Desarrollo integral del Programa Anual de Evaluación

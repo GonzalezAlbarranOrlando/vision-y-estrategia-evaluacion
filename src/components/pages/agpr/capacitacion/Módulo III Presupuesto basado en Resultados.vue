@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table Módulo III -->
     <div class="col-12 table-title">
       Nombre del curso: Módulo III. Presupuesto basado en Resultados (PbR)
