@@ -1,6 +1,6 @@
 
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <div class="col-12 table-title">
       Taller de Gestión Integral del Presupuesto basado en Resultados (PbR),
       para incorporarlo al Ciclo Presupuestario

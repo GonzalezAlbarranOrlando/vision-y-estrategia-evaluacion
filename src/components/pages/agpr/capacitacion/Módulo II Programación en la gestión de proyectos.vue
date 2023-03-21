@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table Módulo II -->
     <div class="col-12 table-title">
       Nombre del curso: Módulo II. Programación en la gestión de proyectos

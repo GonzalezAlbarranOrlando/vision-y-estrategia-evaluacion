@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h1 class="my-h1">Información general</h1>
     <h2 class="my-h2">Antecedentes</h2>
     <div class="general-text">

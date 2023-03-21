@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <h1 class="my-h1">Preguntas frecuentes</h1>
     <h2 class="my-h2">
       ¿Cuál es el beneficio de elaborar el Programa Anual de Evaluación (PAE)?

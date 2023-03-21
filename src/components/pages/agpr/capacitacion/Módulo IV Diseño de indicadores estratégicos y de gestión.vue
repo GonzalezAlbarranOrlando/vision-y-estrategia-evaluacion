@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table Módulo IV -->
     <div class="col-12 table-title">
       Nombre del curso: Módulo IV. Diseño de indicadores estratégicos y de

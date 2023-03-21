@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <!--Table Módulo V -->
     <div class="col-12 table-title">
       Nombre del curso: Módulo V Monitoreo y control
