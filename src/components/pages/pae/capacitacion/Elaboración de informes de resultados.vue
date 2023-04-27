@@ -35,7 +35,7 @@
       través der una metodología que permita elegir la información para el
       diseño de productos o resultados.<br /><br />
       Constancia: Al término del curso se otorgará una constancia de
-      participación con valor curricular, con la insignia de Gobernova.
+      participación con valor curricular, con la insignia de Visión y Estrategia.
     </div>
     <div class="col-12 table-blue">
       <b>Temario:</b>

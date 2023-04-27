@@ -4,7 +4,7 @@
     <h2 class="my-h2">Antecedentes</h2>
     <div class="general-text">
       El 11 de agosto de 2016 el Comité de Gestión por Competencias de la
-      empresa Gobernova Consultoría, integrado por un Grupo Técnico de Expertos
+      empresa Visión y Estrategia Consultoría, integrado por un Grupo Técnico de Expertos
       en la función aprobó el Estándar de Competencia en Administración
       Gubernamental por Resultados AGpR. ECGAGR01, cuyo un periodo de revisión y
       actualización fue de tres años, mismo tiempo de vigencia del certificado
